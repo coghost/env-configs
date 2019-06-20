@@ -54,3 +54,16 @@ alias glg='git lg'
 alias pycprofile='python -m cProfile -s calls '
 alias ns='nosetests'
 ### python ###
+
+### Productivity ###
+alias cat='ccat'
+alias ssrc='source ~/.zshrc'
+alias clean_ds_store="find . -type f -name '*.DS_Store' -ls -delete"
+
+### ls via tree
+alias ll1="tree --dirsfirst -ChFL 1"
+alias ll2="tree --dirsfirst -ChFL 2"
+alias ll3="tree --dirsfirst -ChFL 3"
+alias ll1e="tree --dirsfirst -ChFupDaL 1"
+alias ll2e="tree --dirsfirst -ChFupDaL 2"
+alias ll3e="tree --dirsfirst -ChFupDaL 3"

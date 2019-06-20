@@ -18,3 +18,6 @@ export LC_TIME="en_GB.UTF-8"
 export LC_ALL=
 
 export HISTFILESIZE=1000000000
+export HISTSIZE=1000000000
+export HISTCONTROL=ignoredumps
+export HISTIGNORE="ls:cd:cd -:pwd:exit:date:* --help"

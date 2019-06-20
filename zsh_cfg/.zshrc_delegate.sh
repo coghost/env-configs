@@ -1,39 +1,55 @@
-DIRNAME=$0
-if [ "${DIRNAME:0:1}" = "/" ]; then
-    CURDIR=$(dirname $DIRNAME)
-else
-    CURDIR="$(pwd)"/"$(dirname $DIRNAME)"
-fi
-
-source $CURDIR/.p9krc
+source ~/.zsh_cfg/.p9krc
 
 plugins=(
     # aws
-    # brew
+    brew
+    colored-man-pages
+    colorize
     cp
+    docker
+    extract
     git
     gitfast
+    history
+    man
     osx
+    pipenv
+    python
+    # rsync   # rsync frequent cmds
+    sublime # st: open a file, stt open current director
     sudo # press twice Esc will add sudo to current CMD
     # virtualenv
-    # vi-mode
-    # z
-    # zsh-autosuggestions
-    # zsh-syntax-highlighting
-    # zsh-completions
-    # zsh-history-substring-search
+    urltools    # urlencode/decode
+    vi-mode
+    vscode
+    z
+    zsh-autosuggestions # enable autosuggestions
+    zsh-completions
+    zsh-syntax-highlighting
+    zsh-history-substring-search
 )
 
 source $ZSH/oh-my-zsh.sh
 
 ### source exports
-source $CURDIR/.exports.sh
+source ~/.zsh_cfg/.exports.sh
 
 ### source useful alias
-source $CURDIR/.alias.sh
+source ~/.zsh_cfg/.aliases.sh
 
 ### source useful functions
-source $CURDIR/.functions.sh
+source ~/.zsh_cfg/.functions.sh
 
 ### some of you private configs
-source $CURDIR/.priv.sh
+source ~/.zsh_cfg/.priv.sh
+
+##### customieze Zsh #####
+COMPLETION_WAITING_DOTS="true"
+
+##### customize zsh-history-substring-search #####
+# https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/history-substring-search
+# only receive unique search results
+setopt HIST_IGNORE_ALL_DUPS
+zmodload zsh/terminfo
+bindkey "$terminfo[kcuu1]" history-substring-search-up
+bindkey "$terminfo[kcud1]" history-substring-search-down
