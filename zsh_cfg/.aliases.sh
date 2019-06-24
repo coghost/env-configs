@@ -35,7 +35,8 @@ alias dkrs='sudo docker restart'
 alias dlog10='sudo docker logs -f --tail=10'
 alias dlog50='sudo docker logs -f --tail=50'
 alias dlog500='sudo docker logs -f --tail=500'
-alias dkrimg='sudo docker rmi'
+alias drimg='sudo docker rmi'
+alias drct='sudo docker rm'
 ### docker ###
 
 # ------------------------------------------

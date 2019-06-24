@@ -13,8 +13,8 @@ else
     CURDIR="`pwd`"/"`dirname $DIRNAME`"
 fi
 
-source ~/.zsh_cfg/.p9k_color_rc.sh
-source ~/.zsh_cfg/.p9k_fns_rc.sh
+source ~/.env-configs/zsh_cfg/.p9k_color_rc.sh
+source ~/.env-configs/zsh_cfg/.p9k_fns_rc.sh
 
 ZSH_THEME="powerlevel9k/powerlevel9k"
 

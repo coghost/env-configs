@@ -29,7 +29,7 @@ brew install mplayer
 brew install pandoc
 brew install shfmt
 brew install Codecs33
-brew install shpotify
+brew install shpotify   # spotify mac cli controller
 brew install cmake
 brew install jq
 brew install global --with-pygments --with-ctags

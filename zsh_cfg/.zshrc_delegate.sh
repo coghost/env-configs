@@ -1,4 +1,4 @@
-source ~/.zsh_cfg/.p9krc
+source ~/.env-configs/zsh_cfg/.p9krc
 
 plugins=(
     # aws
@@ -32,16 +32,16 @@ plugins=(
 source $ZSH/oh-my-zsh.sh
 
 ### source exports
-source ~/.zsh_cfg/.exports.sh
+source ~/.env-configs/zsh_cfg/.exports.sh
 
 ### source useful alias
-source ~/.zsh_cfg/.aliases.sh
+source ~/.env-configs/zsh_cfg/.aliases.sh
 
 ### source useful functions
-source ~/.zsh_cfg/.functions.sh
+source ~/.env-configs/zsh_cfg/.functions.sh
 
 ### some of you private configs
-source ~/.zsh_cfg/.priv.sh
+source ~/.env-configs/zsh_cfg/.priv.sh
 
 ##### customieze Zsh #####
 COMPLETION_WAITING_DOTS="true"
