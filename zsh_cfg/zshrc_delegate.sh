@@ -1,7 +1,7 @@
-source ~/.env-configs/zsh_cfg/.p9krc
+source ~/.env-configs/zsh_cfg/p9krc
 
 plugins=(
-    # aws
+    aws
     brew
     colored-man-pages
     colorize
@@ -32,16 +32,19 @@ plugins=(
 source $ZSH/oh-my-zsh.sh
 
 ### source exports
-source ~/.env-configs/zsh_cfg/.exports.sh
+source ~/.env-configs/zsh_cfg/exports.sh
 
 ### source useful alias
-source ~/.env-configs/zsh_cfg/.aliases.sh
+source ~/.env-configs/zsh_cfg/aliases.sh
 
 ### source useful functions
-source ~/.env-configs/zsh_cfg/.functions.sh
+source ~/.env-configs/zsh_cfg/functions.sh
 
 ### some of you private configs
-source ~/.env-configs/zsh_cfg/.priv.sh
+source ~/.env-configs/zsh_cfg/priv.sh
+
+# source useful functions
+source ~/.env-configs/zsh_cfg/fzf_fn.sh
 
 ##### customieze Zsh #####
 COMPLETION_WAITING_DOTS="true"
@@ -53,3 +56,7 @@ setopt HIST_IGNORE_ALL_DUPS
 zmodload zsh/terminfo
 bindkey "$terminfo[kcuu1]" history-substring-search-up
 bindkey "$terminfo[kcud1]" history-substring-search-down
+autoload bashcompinit
+bashcompinit
+source ~/.local/share/lscolors.sh
+

@@ -3,3 +3,18 @@
     excludesfile = ~/.env-configs/dotfiles/.gitignore.global
 [alias]
 	lg = log --color --graph --date=format:'%m/%d %H:%M' --pretty=format:'%C(yellow)%h%Creset%C(red)%d%Creset %s %Cred『%C(bold blue)%an, %Cgreen%cd%Cred』%Creset' --abbrev-commit --
+[filter "lfs"]
+	process = git-lfs filter-process
+	required = true
+	clean = git-lfs clean -- %f
+	smudge = git-lfs smudge -- %f
+[user]
+	name = hex-aw
+	email = hexiang@awesomego.com.cn
+[http]
+    postBuffer = 1048576000
+	maxRequestBuffer = 100M
+[pack]
+    deltaCacheSize = 2047m 
+    packSizeLimit = 2047m 
+    windowMemory = 2047m

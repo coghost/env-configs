@@ -1,0 +1,2768 @@
+: 1575906662:0;java -version
+: 1575906662:0;ls -l /usr/bin/java
+: 1575906662:0;open /Library/Internet\ Plug-Ins
+: 1575906662:0;cd ~/Public/
+: 1575906662:0;cd platform
+: 1575906662:0;./adb
+: 1575906662:0;ll -R
+: 1575906662:0;ll -R | grep aapt
+: 1575906662:0;./android
+: 1575906662:0;l add-ons
+: 1575906662:0;l platform
+: 1575906662:0;l platforms
+: 1575906662:0;tools/android update sdk --no-ui
+: 1575906662:0;/Users/lihe/android-sdk/tools/android ; exit;
+: 1575906662:0;brew cask install ndroid-platform-tools
+: 1575906662:0;aadb
+: 1575906662:0;/usr/local/Caskroom/android-platform-tools/29.0.4
+: 1575906662:0;brew cask install android-sdk
+: 1575906662:0;cd android-sdk
+: 1575906662:0;cd 4333796
+: 1575906662:0;brew cask uninstall android-platform-tools
+: 1575906662:0;brew cask install android-platform-tools
+: 1575906662:0;open /Library
+: 1575906662:0;java
+: 1575906662:0;brew cask install homebrew/cask-versions/adoptopenjdk8
+: 1575906662:0;cd ~/Library/Application\ Support
+: 1575906662:0;sdkmanager -h
+: 1575906662:0;sdkmanager --list | grep build
+: 1575906662:0;sdkmanager --version
+: 1575906662:0;brew cask info android-sdk
+: 1575906662:0;sdkmanager --install build-tools
+: 1575906662:0;sdkmanager --install build-tools;29.0.2
+: 1575906662:0;android
+: 1575906662:0;android update sdk
+: 1575906662:0;sdkmanager --update
+: 1575906662:0;sdkmanager --install 
+: 1575906662:0;sdkmanager --install build
+: 1575906662:0;sdkmanager --install aapt
+: 1575906662:0;sdkmanager --install 'build-tools;26.0.3'
+: 1575906662:0;aapt
+: 1575906662:0;aapt l
+: 1575906662:0;h gpi brew cask
+: 1575906662:0;h gpi 'brew cask'
+: 1575906662:0;h gpi sdkmanager
+: 1575906662:0;pm --help
+: 1575906662:0;emulator --helpl
+: 1575906662:0;emulator -h
+: 1575906662:0;emulator -avd 
+: 1575906662:0;emulator -avd foo
+: 1575906662:0;python pipino/ecs_crawler -id 4 -p 0 -k python
+: 1575906662:0;python pipino/ecs_crawler -id 4 -p 0 -k 'non profit' -l 'houston, tx'
+: 1575906662:0;python pipino/ecs_crawler -id 190 -p 0 -k 'non profit' -l 'houston, tx'
+: 1575906662:0;python pipino/ecs_crawler -id 190 -p 0 -k startup -l 'toronto, on'
+: 1575906662:0;python parsers/core/ng_test.py -ind -s 2 -k title -id 14 -f 190/2019-10-05T03:14:54.818447_0.3071607902275899.html
+: 1575906662:0;python parsers/core/ng_test.py -ind -s 0 -k title -id 14 -f 190/2019-10-05T03:14:54.818447_0.3071607902275899.html
+: 1575906662:0;python parsers/core/ng_test.py -ind -s 1 -k title -id 14 -f 190/2019-10-05T03:14:54.818447_0.3071607902275899.html
+: 1575906662:0;python parsers/core/ng_test.py -s 0 -k title -id 14 -f 190/2019-10-05T03:14:54.818447_0.3071607902275899.html
+: 1575906662:0;python parsers/core/ng_test.py -s 1 -k title -id 14 -f 190/2019-10-05T03:14:54.818447_0.3071607902275899.html
+: 1575906662:0;python parsers/core/ng_test.py -s 1 -k title -id 14 -f 4/2019-10-05T03:03:17.983688_0.22531849668676573.html
+: 1575906662:0;gco -b CC-418
+: 1575906662:0;python parsers/core/ng_test.py -id 4 -f /tmp/4.html
+: 1575906662:0;python parsers/core/ng_test.py -ind -s 2 -k title -id 4 -f 4/2019-10-05T09:32:54.635408_0.8852415185746723.html
+: 1575906662:0;python parsers/core/ng_test.py -ind -s 1 -k title -id 4 -f 4/2019-10-05T09:32:54.635408_0.8852415185746723.html
+: 1575906662:0;python parsers/core/ng_test.py -s 2 -k title -id 4 -f 4/2019-10-05T09:32:54.635408_0.8852415185746723.html
+: 1575906662:0;python parsers/core/ng_test.py -s 2 -k title -id 4 -f 190/2019-10-05T09:56:22.432237_0.269544240004851.html
+: 1575906662:0;python parsers/core/ng_test.py -id 4 -f /tmp/4.html -k sponsored
+: 1575906662:0;python parsers/core/ng_test.py -id 4 -f /tmp/4.html -k salary_range
+: 1575906662:0;gd parsers/core/helper.py
+: 1575906662:0;ga parsers/core/helper.py
+: 1575906662:0;gcm "feat(helper): add url2dict, paired elems to dict"
+: 1575906662:0;gcm "refactor(4): support yaml"
+: 1575906662:0;python parsers/core/ng_test.py -id 4 -f /tmp/190_1.html -k salary_range
+: 1575906662:0;python parsers/core/ng_test.py -s 2 -k title -id 190 -f 190/2019-10-05T09:50:05.656578_0.9825466376481284.html
+: 1575906662:0;python parsers/core/ng_test.py -id 190 -f /tmp/190.html -k sponsored
+: 1575906662:0;python parsers/core/ng_test.py -id 190 -f /tmp/190.html -l location
+: 1575906662:0;python parsers/core/ng_test.py -id 190 -f /tmp/190.html -k location
+: 1575906662:0;python parsers/core/ng_test.py -id 190 -f /tmp/190.html -k listing_date
+: 1575906662:0;python pipino/ecs_crawler -id 190 -p 0 -h
+: 1575906662:0;python pipino/ecs_crawler -id 190 -p 0 --help
+: 1575906662:0;python pipino/ecs_crawler -id 4 -p 0
+: 1575906662:0;python pipino/ecs_crawler -id 190 -p 0
+: 1575906662:0;python parsers/core/ng_test.py -s 2 -k title -id 190 -f 190/2019-10-05T09:20:51.095441_0.6850485932560939.html
+: 1575906662:0;python parsers/core/ng_test.py -s 2 -k title -id 190 -f 190/2019-10-05T13:24:57.484050_0.981494531067172.html
+: 1575906662:0;python parsers/core/ng_test.py -s 2 -id 190 -f 190/2019-10-05T13:24:57.484050_0.981494531067172.html
+: 1575906662:0;python parsers/core/ng_test.py -id 190 -f /tmp/190.html -k salary_range
+: 1575906662:0;python parsers/core/ng_test.py -s 2 -id 190 -f 190/2019-10-05T13:23:05.695836_0.12211213339536653.html
+: 1575906662:0;python parsers/core/ng_test.py -id 190 -f /tmp/190.html -k employment_type
+: 1575906662:0;python parsers/core/ng_test.py -id 190 -f /tmp/190.html -k title
+: 1575906662:0;gcm "refactor(190): support yaml"
+: 1575906662:0;gp origin CC-418
+: 1575906662:0;docker run -d -p 3000:3000 --name metabase metabase/metabase
+: 1575906662:0;pipenv install --skip-lock Appium-Python-Client
+: 1575906662:0;od
+: 1575906662:0;touch getting_started.md cli_reference.md
+: 1575906662:0;touch stacks_bundles
+: 1575906662:0;mv stacks_bundles stacks_bundles.md
+: 1575906662:0;touch with_swarm.md
+: 1575906662:0;touch env_file.md
+: 1575906662:0;touch env_var.md
+: 1575906662:0;touch extend_services.md
+: 1575906662:0;touch networking.md
+: 1575906662:0;touch in_production.md
+: 1575906662:0;touch link_env_vars.md
+: 1575906662:0;touch startup_order.md
+: 1575906662:0;touch sample_apps.md
+: 1575906662:0;docker pull metabase/metabase
+: 1575906662:0;python pipino/ecs_crawler -id 126 -p 0 -r 6 -k python -l beijing
+: 1575906662:0;hades.rdsmg -id 126 
+: 1575906662:0;hades.rdsmg -id 126 -r 
+: 1575906662:0;hades.rdsmg -id 126 -r -w search
+: 1575906662:0;python pipino/ecs_crawler -id 126 -p 1 -k python -l beijing
+: 1575906662:0;hades.kill -n express
+: 1575906662:0;python pipino/ecs_crawler -id 126 -p 0 -k python -l beijing
+: 1575906662:0;python pipino/ecs_crawler -id 126 -p 0 
+: 1575906662:0;gcm "deploy: re-upgrade site 126"
+: 1575906662:0;hades.rdsmg -id 126 -h
+: 1575906662:0;hades.rdsmg -id 126 -p 16379 -w
+: 1575906662:0;hades.rdsmg -id 126 -p 16379 -w search
+: 1575906662:0;hades.rdsmg -id 126 -p 16379 -w search -r
+: 1575906662:0;hades.kill -n kibana
+: 1575906662:0;gco -b CC-420
+: 1575906662:0;python parsers/core/ng_test.py -s 2 -id 126 -f 126/2019-10-09T09:39:20.477785_0.0812158365405109.json
+: 1575906662:0;python parsers/core/ng_test.py -s 2 -id 126 -f /tmp/126.html
+: 1575906662:0;python parsers/core/ng_test.py -id 126 -f /tmp/126.html
+: 1575906662:0;python parsers/core/ng_test.py -id 126 -f /tmp/126.html -k title
+: 1575906662:0;python parsers/core/ng_test.py -id 126 -f /tmp/126.html -h
+: 1575906662:0;python parsers/core/ng_test.py -id 126 -f /tmp/126.html -i 1
+: 1575906662:0;python parsers/core/ng_test.py -id 126 -f /tmp/126.html -k sponsored
+: 1575906662:0;git stash list
+: 1575906662:0;git stash drop stash@{0}
+: 1575906662:0;python parsers/core/ng_test.py -id 126 -f /tmp/126.html -k sponsored_level
+: 1575906662:0;python parsers/core/ng_test.py -id 126 -f /tmp/126.html -k salary_range
+: 1575906662:0;gd parsers/core/__init__.py
+: 1575906662:0;ga parsers/core/__init__.py
+: 1575906662:0;ga parsers/core
+: 1575906662:0;gcm "refactor(126): upgrade pnet with json support"
+: 1575906662:0;python parsers/core/ng_test.py -s 2 -id 126 -f 182/2019-10-09T09:33:52.269294_0.7799449713685098.json
+: 1575906662:0;pipenv install --skip-lock Faker
+: 1575906662:0;gcm "deploy: eluta 187"
+: 1575906662:0;python parsers/core/ng_test.py -s 2 -id 126 -f 124/2019-10-10T03:20:12.409825_0.1696410239906192.json
+: 1575906662:0;python pipino/ecs_crawler -id 182 -p 0
+: 1575906662:0;python parsers/core/ng_test.py -s 2 -id 126 -f 126/2019-10-10T14:59:46.165710_0.5441847939835728.json
+: 1575906662:0;python parsers/core/ng_test.py -s 1 -id 126 -f 126/2019-10-10T14:59:46.165710_0.5441847939835728.json
+: 1575906662:0;python parsers/core/ng_test.py -s 1 -id 126 -f 126/2019-10-10T14:57:55.597993_0.340300941043279.json
+: 1575906662:0;gd parsers/core/_validator.py
+: 1575906662:0;ga parsers/core/_validator.py
+: 1575906662:0;gd parsers/core/behavior.py
+: 1575906662:0;gd parsers/sites/__init__.py
+: 1575906662:0;gd parsers/parser/classification.py
+: 1575906662:0;ga parsers/core/behavior.py
+: 1575906662:0;gcm "feat(MetaParser): support cascade locator; multiple locators"
+: 1575906662:0;gd parsers/sites/za/site_126.py
+: 1575906662:0;ga parsers/sites/za/site_126.py
+: 1575906662:0;gcm "refactor(126): remove redundant code"
+: 1575906662:0;gcm "refactor(182): parse vacature json files with yaml"
+: 1575906662:0;..
+: 1575906662:0;ag autocmd
+: 1575906662:0;ag autocmd *
+: 1575906662:0;grep autocmd -r -n
+: 1575906662:0;grep autocmd -r -n *
+: 1575906662:0;vim vimrc.bundles
+: 1575906662:0;ll kite
+: 1575906662:0;mv kite __bak_kite
+: 1575906662:0;vi vimrc.bundles
+: 1575906662:0;vim -u NONE 
+: 1575906662:0;vim vimrc
+: 1575906662:0;ag kite
+: 1575906662:0;cd pack
+: 1575906662:0;cd bundle/YouCompleteMe
+: 1575906662:0;python install.py
+: 1575906662:0;pip3 install requests
+: 1575906662:0;python3 install.py
+: 1575906662:0;git rebase origin/prod
+: 1575906662:0;git rebase --continue
+: 1575906662:0;gd origin/prod
+: 1575906662:0;gp origin CC-420
+: 1575906662:0;gco CC-420
+: 1575906662:0;python pipino/ecs_crawler -id 126 -p 0
+: 1575906662:0;python pipino/ecs_crawler -id 138 -p 0 
+: 1575906662:0;gcm "deploy: site 126(pnet)/ 138(Bumeran)"
+: 1575906662:0;gco prod
+: 1575906662:0;python cobra/apm/demo1.py
+: 1575906662:0;python pipino/ecs_crawler -id 12 -p 0 -k '2>41' -l Oss
+: 1575906662:0;hades.rdsmg -id 416
+: 1575906662:0;hades.rdsmg -id 416 -r
+: 1575906662:0;python pipino/ecs_crawler -id 416 -p 0
+: 1575906662:0;gcm "deploy: site 12/ new site 416"
+: 1575906662:0;python pipino/ecs_crawler -id 187 -p 0 -k python -l quÃ©bec
+: 1575906662:0;python pipino/crawler/nebular/customize_proxies.py -id 187 -a -n 128 -m 1
+: 1575906662:0;ga pipino/settings/416/site_settings.yaml
+: 1575906662:0;gcm "deploy: move 416 to prod; disable site 187"
+: 1575906662:0;hades.rdsmg -id 416 -p 16379
+: 1575906662:0;hades.rdsmg -id 416 -p 16379 -w search
+: 1575906662:0;hades.rdsmg -id 416 -p 16379 -w search -r
+: 1575906662:0;brew cask search appium
+: 1575906662:0;brew search appium
+: 1575906662:0;brew cask install appium
+: 1575906662:0;docker rmi mgdb_mongo
+: 1575906662:0;docker rmi mongo
+: 1575906662:0;docker rmi mongo-express
+: 1575906662:0;docker rmi fa01af8dbc2b
+: 1575906662:0;pipenv she
+: 1575906662:0;sudo spctl --master-disable
+: 1575906662:0;xattr -r -d com.apple.quarantine /Applications/Alfred\ 4.app
+: 1575906662:0;xattr -r -d com.apple.quarantine /Applications/Alfred4.app
+: 1575906662:0;hades.kill -n alfred
+: 1575906662:0;vim 
+: 1575906662:0;h gpi mvim
+: 1575906662:0;/usr/local/bin/mvim
+: 1575906662:0;brew install macvim --override-system-vim --with-python@3
+: 1575906662:0;pipenv install yapf --dev
+: 1575906662:0;brew install macvim --with-python@3
+: 1575906662:0;brew upgrade macvim
+: 1575906662:0;otool -L exefile
+: 1575906662:0;brew upgrade node
+: 1575906662:0;ls ~/.
+: 1575906662:0;ls ~/
+: 1575906662:0;brew link ruby
+: 1575906662:0;brew reinstall ruby
+: 1575906662:0;vi flake8
+: 1575906662:0;echo 'export PATH="/usr/local/opt/ruby/bin:$PATH"' >> ~/.zshrc
+: 1575906662:0;DYLD_LIBRARY_PATH
+: 1575906662:0;echo DYLD_LIBRARY_PATH
+: 1575906662:0;brew link --overwrite ruby
+: 1575906662:0;/System/Library/Frameworks/Ruby.framework/Versions/
+: 1575906662:0;source /Users/lihe/.local/share/virtualenvs/qa-automation-U-2kiESc/bin/activate
+: 1575906662:0;pipenv install jupyter --skip-lock --dev
+: 1575906662:0;source /Users/lihe/.virtualenvs/qa-automation-U-2kiESc/bin/activate
+: 1575906662:0;/Users/lihe/.virtualenvs/qa-automation-U-2kiESc/bin/python /Users/lihe/01Neb/codes/nebular/qa-automation/cobra/app_crawl/indeed.py
+: 1575906662:0;pipenv install notebook --skip-lock --dev
+: 1575906662:0;pipenv uninstall ipython --skip-lock --dev
+: 1575906662:0;pip3 uninstall ipython
+: 1575906662:0;which ipython
+: 1575906662:0;brew cask install xquartz
+: 1575906662:0;pipenv install ipython --skip-lock --dev
+: 1575906662:0;brew reinstall macvim
+: 1575906662:0;/usr/local/Cellar/macvim/8.1-157/MacVim.app/Contents/MacOS/Vim
+: 1575906662:0;/usr/local/Cellar/macvim/8.1-157/MacVim.app/Contents/MacOS/
+: 1575906662:0;brew install vim --override-system-vim
+: 1575906662:0;brew install vim 
+: 1575906662:0;open .zshrc
+: 1575906662:0;open ~/.env-configs/zsh_cfg/.zshrc_delegate.sh
+: 1575906662:0;which macvim
+: 1575906662:0;which mvim
+: 1575906662:0;brew link macvim
+: 1575906662:0;brew link --overwrite macvim
+: 1575906662:0;brew unlink macvim
+: 1575906662:0;brew info vim
+: 1575906662:0;brew unlink vim
+: 1575906662:0;brew link --overwrite --dry-run macvim
+: 1575906662:0;brew install macvim
+: 1575906662:0;jupyter notebook
+: 1575906662:0;pipenv
+: 1575906662:0;open ~/.env-configs/zsh_cfg/
+: 1575906662:0;source ~/.zshrc
+: 1575906662:0;sudo chown -R $(whoami):admin /usr/local
+: 1575906662:0;cd /usr/local
+: 1575906662:0;$(brew --prefix)
+: 1575906662:0;cd Homebrew
+: 1575906662:0;git fetch && git reset --hard origin/master
+: 1575906662:0;open ~/.vimrc
+: 1575906662:0;/System/Library/Frameworks/Ruby.framework/Versions
+: 1575906662:0;cd Current
+: 1575906662:0;cd usr/lib/
+: 1575906662:0;/usr/local/opt/ruby
+: 1575906662:0;brew info pipenv
+: 1575906662:0;brew install pipenv
+: 1575906662:0;brew reinstall pipenv
+: 1575906662:0;pipenv install 
+: 1575906662:0;/usr/local/Cellar/macvim/8.1-157/MacVim.app/
+: 1575906662:0;brew update
+: 1575906662:0;echo $PATH
+: 1575906662:0;brew upgrade
+: 1575906662:0;gsed
+: 1575906662:0;sed
+: 1575906662:0;ll /usr/local/opt/ruby/bin
+: 1575906662:0;ruby --help
+: 1575906662:0;which ruby
+: 1575906662:0;brew cleanup
+: 1575906662:0;brew install vim
+: 1575906662:0;brew link vim
+: 1575906662:0;python3
+: 1575906662:0;python3.7
+: 1575906662:0;python parsers/core/ng_test.py -h
+: 1575906662:0;pipenv install --dev --skip-lock
+: 1575906662:0;vi ~/.env-configs/zsh_cfg/.zshrc_delegate.sh
+: 1575906662:0;cd ~/.env-configs/
+: 1575906662:0;l brew
+: 1575906662:0;vi .exports.sh
+: 1575906662:0;xcode-select --install
+: 1575906662:0;tmutil thinlocalsnapshots / 10000000000 4
+: 1575906662:0;cd ~/Library/Caches
+: 1575906662:0;cd storedownloadd
+: 1575906662:0;sudo tmutil listlocalsnapshots /
+: 1575906662:0;cd /dev/ze
+: 1575906662:0;ls /dev/zero
+: 1575906662:0;ls /dev/zero -alh
+: 1575906662:0;ls /dev/zero -a
+: 1575906662:0;dd if=/dev/zero of=/tmp/hugefile bs=100m
+: 1575906662:0;cd ~
+: 1575906662:0;ps aux gpi cat
+: 1575906662:0;ps aux gpi hugefile
+: 1575906662:0;kill -9 5754
+: 1575906662:0;dd if=/dev/zero of=~/hugefile bs=100m
+: 1575906662:0;dd if=/dev/zero of=~/hugefile bs=15m
+: 1575906662:0;ls -h
+: 1575906662:0;ls -l
+: 1575906662:0;launchctl unload /System/Library/LaunchDaemons/com.apple.nsurlstoraged.plist\
+launchctl unload /System/Library/LaunchAgents/com.apple.nsurlsessiond.plist\
+sudo launchctl unload /System/Library/LaunchDaemons/com.apple.nsurlsessiond.plist\
+sudo launchctl unload /System/Library/LaunchDaemons/com.apple.nsurlstoraged.plist
+: 1575906662:0;dd if=/dev/zero of=/Users/lihe/hugefile bs=100mdf -h
+: 1575906662:0;open ~/Library/Caches
+: 1575906662:0;z /Users/lihe/01Neb/codes/nebular/qa-automation
+: 1575906662:0;z /Users/lihe/01Neb/codes/nebular/compete-parser
+: 1575906662:0;/Users/lihe/01Neb/codes/aliyun/hades/
+: 1575906662:0;pip3 uninstall sonimei -y && python setup.py install
+: 1575906662:0;pipenv install -e --skip-lock /Users/lihe/00Li/github/iz/icfg
+: 1575906662:0;pipenv uninstall --skip-lock icfg
+: 1575906662:0;z /Users/lihe/00Li/github/izen
+: 1575906662:0;cd superset/
+: 1575906662:0;brew uninstall macvim
+: 1575906662:0;brew info ruby
+: 1575906662:0;brew uninstall ruby
+: 1575906662:0;brew info macvim
+: 1575906662:0;macvim
+: 1575906662:0;mvim
+: 1575906662:0;vi ~/.vimrc
+: 1575906662:0;sudo su
+: 1575906662:0;pipenv uninstall --skip-lock
+: 1575906662:0;brew info psycopg2
+: 1575906662:0;pipenv install psycopg2 --skip-lock
+: 1575906662:0;pipenv install --skip-lock psycopg2-binary
+: 1575906662:0;python pipino/ecs_crawler -id 189 -p 0 
+: 1575906662:0;pipenv install PyVirtualDisplay==0.2.4
+: 1575906662:0;pipenv install PyVirtualDisplay==0.2.4 --skip-lock
+: 1575906662:0;pipenv install PyVirtualDisplay==0.2.3 --skip-lock
+: 1575906662:0;brew info XQuartz
+: 1575906662:0;brew cask install XQuartz
+: 1575906662:0;xdpyinfo
+: 1575906662:0;which xdpyinfo
+: 1575906662:0;ll /opt/X11/bin/xdy
+: 1575906662:0;ll /opt/X11/bin/xdpyinfo
+: 1575906662:0;xdpyinfo -display
+: 1575906662:0;xdpyinfo 
+: 1575906662:0;xdpyinfo | grep local
+: 1575906662:0;ls ~/.Xauthority
+: 1575906662:0;chown a+x ~/.Xauthority
+: 1575906662:0;chmod a+x ~/.Xauthority
+: 1575906662:0;chmod a-x ~/.Xauthority
+: 1575906662:0;ll ~/.Xauthority
+: 1575906662:0;pipenv install -r requirements.frozen --skip-lock
+: 1575906662:0;pipenv install --skip-lock --dev
+: 1575906662:0;Xquartz
+: 1575906662:0;echo $DISPLAY
+: 1575906662:0;export $DISPLAY=:0
+: 1575906662:0;export DISPLAY=:0
+: 1575906662:0;brew info xdpyinfo
+: 1575906662:0;brew info xquartz
+: 1575906662:0;brew cask info xquartz
+: 1575906662:0;brew cask uninstall xquartz
+: 1575906662:0;python pipino/ecs_crawler -id 202 -p 0
+: 1575906662:0;pipenv install --skip-lock profig
+: 1575906662:0;pipenv install --skip-lock tqdm
+: 1575906662:0;pipenv install --skip-lock -e /Users/lihe/00Li/github/izen
+: 1575906662:0;pip3 uninstall sonimei && python setup.py install
+: 1575906662:0;which java
+: 1575906662:0;ls -l /usr/libexec/java_home 
+: 1575906662:0;cd /Library/Java/JavaVirtualMachines/
+: 1575906662:0;l adoptopenjdk-8.jdk
+: 1575906662:0;cd adoptopenjdk-8.jdk/Contents/Home
+: 1575906662:0;python hades/clear_es_log.py -s 2019-08-10 -e 2019-08-20 -k PP -c
+: 1575906662:0;python hades/clear_es_log.py -s 2019-08-10 -e 2019-08-20 -k CC -c
+: 1575906662:0;python hades/clear_es_log.py -s 2019-08-10 -e 2019-08-20 -k CP -c
+: 1575906662:0;python hades/clear_es_log.py -s 2019-08-20 -e 2019-08-31 -k CP -c
+: 1575906662:0;python hades/clear_es_log.py -s 2019-08-20 -e 2019-08-31 -k PP -c
+: 1575906662:0;pipenv install --skip-lock numpy
+: 1575906662:0;pipenv install --skip-lock --dev xmltodict
+: 1575906662:0;pipenv uninstall --skip-lock --dev xmltodict
+: 1575906662:0;pipenv uninstall --skip-lock --dev bs4
+: 1575906662:0;gcm "deploy: upgrade site 121/416"
+: 1575906662:0;gcm "deploy: upgrade site 7, 8, 19, 70"
+: 1575906662:0;ifconfig en0
+: 1575906662:0;python pipino/ecs_crawler -id 137 -p 0
+: 1575906662:0;which android-sdk
+: 1575906662:0;l build-tools/26.0.3/
+: 1575906662:0;adb list
+: 1575906662:0;adb
+: 1575906662:0;which adb
+: 1575906662:0;ll /usr/local/bin/adb
+: 1575906662:0;/usr/local/Caskroom/android-platform-tools/29.0.4/
+: 1575906662:0;l platform-tools
+: 1575906662:0;sdkmanager --list
+: 1575906662:0;ll tools
+: 1575906662:0;sdkmanager
+: 1575906662:0;sdkmanager --help
+: 1575906662:0;sdkmanager --install 'build-tools;29.0.2'
+: 1575906662:0;ll build-tools
+: 1575906662:0;cd platform-tools
+: 1575906662:0;ln -s /usr/local/Caskroom/android-platform-tools/29.0.4/platform-tools platform-tools
+: 1575906662:0;git clone ssh://git-codecommit.us-east-2.amazonaws.com/v1/repos/compete-app-crawler
+: 1575906662:0;lk
+: 1575906662:0;cd build-tools
+: 1575906662:0;git config user.email hexiang@nebutec.cn
+: 1575906662:0;gcm "init compete-app-crawler"
+: 1575906662:0;python pipino/ecs_crawler -id 137 -p 0 -k empleos
+: 1575906662:0;gcm "feat(137): update Occ with json response" 
+: 1575906662:0;python pipino/ecs_crawler -id 208 -p 0
+: 1575906662:0;gcm "deploy: upgrade site 137, 208"
+: 1575906662:0;python pipino/crawler/nebular/customize_proxies.py -id 187 -a -n 64 -m 1
+: 1575906662:0;git clone https://github.com/haskellcamargo/sclack.git
+: 1575906662:0;cd sclack
+: 1575906662:0;gco -b hex
+: 1575906662:0;vi pipino/settings/global_settings.yaml
+: 1575906662:0;gcm "deploy: upgrade site 119"
+: 1575906662:0;gcm "feat: able to crawl single page of indeed.app"
+: 1575906662:0;git clone git@github.com:coghost/SeleniumBase.git
+: 1575906662:0;VSCODE
+: 1575906662:0;code
+: 1575906662:0;vsc .
+: 1575906662:0;gcm "feat: add details steps according to Nebu-Crawler"
+: 1575906662:0;python cac/core/bot.py
+: 1575906662:0;python cac/crawler
+: 1575906662:0;pipenv install --skip-lock psutil
+: 1575906662:0;pipenv uninstall --skip-lock --dev profig
+: 1575906662:0;pipenv uninstall --skip-lock --dev logzero
+: 1575906662:0;pipenv install --skip-lock --dev profig
+: 1575906662:0;pipenv install --skip-lock --dev logzero
+: 1575906662:0;python cac 
+: 1575906662:0;cd fonts
+: 1575906662:0;whereis i_fa.sh
+: 1575906662:0;vi install.sh
+: 1575906662:0;gcm "feat: add assist modules dec/icfg(dev-env/prod-env)"
+: 1575906662:0;hades.rdsmg -id 418 -r
+: 1575906662:0;python pipino/ecs_crawler -id 418 -p 0
+: 1575906662:0;gcm "deploy: add site 418 monsterboard to prod"
+: 1575906662:0;z /Users/lihe/00Li/github/SeleniumBase
+: 1575906662:0;gcm "deploy: upgrade site 137, 186"
+: 1575906662:0;vi ~/.ideavimrc 
+: 1575906662:0;pipenv install --skip-lock yaml
+: 1575906662:0;pipenv install --skip-lock pyyaml
+: 1575906662:0;gcm "feat: add lot's of features, now support crawl page by page"
+: 1575906662:0;adb shell am start -W -n com.indeed.android.jobsearch/.MainActivity -S -a android.intent.action.MAIN -c android.intent.category.LAUNCHER -f 0x10200000
+: 1575906662:0;adb shell am start -W -n com.indeed.android.jobsearch/.MainActivity -S
+: 1575906662:0;adb shell am start -W -n com.indeed.android.jobsearch/.launch.LaunchActivity -S
+: 1575906662:0;gcm "feat: add mock input with suggests"
+: 1575906662:0;gd cac/core/bot.py
+: 1575906662:0;cac/core/bot.py
+: 1575906662:0;ga cac/core/bot.py
+: 1575906662:0;gcm "refactor: mainly focus on refactor"
+: 1575906662:0;python pipino/ecs_crawler -id 101 -p 1
+: 1575906662:0;h gpi echo
+: 1575906662:0;h gpi cat
+: 1575906662:0;h gpi dd
+: 1575906662:0;gcm "fix(101): submit button layout change; refactor of job function activation"
+: 1575906662:0;gcm "deploy: upgrade site 101"
+: 1575906662:0;z /Users/lihe/01Neb/codes/nebular/compete-app-crawler
+: 1575906662:0;cd /Users/lihe/01Neb/codes/aliyun/hades
+: 1575906662:0;whereis appium
+: 1575906662:0;vi ~/.env-configs/zsh_cfg/.exports.sh 
+: 1575906662:0;cd Resources
+: 1575906662:0;cd app
+: 1575906662:0;cd dist
+: 1575906662:0;cd MacOS
+: 1575906662:0;./Appium
+: 1575906662:0;tmux
+: 1575906662:0;brew install screen
+: 1575906662:0;gd cac/core
+: 1575906662:0;gd cac/worker/_run.py
+: 1575906662:0;xattr -r -d com.apple.quarantine /Applications/DaisyDisk.app
+: 1575906662:0;cat /dev/zero > ~/hugefile
+: 1575906662:0;kill -9 5910
+: 1575906662:0;cat
+: 1575906662:0;orig_cat
+: 1575906662:0;orig_cat a
+: 1575906662:0;orig_cat /dev/zero > ~/hugefile
+: 1575906662:0;ls -l hugefile
+: 1575906662:0;ls -lh hugefile
+: 1575906662:0;kill -9 4374
+: 1575906662:0;ps aux gpi /dev/zero
+: 1575906662:0;kill -9 3317
+: 1575906662:0;sudo kill -9 3317
+: 1575906662:0;ll hugefile
+: 1575906662:0;dd if=/dev/zero of=/Users/lihe/hugefile bs=100m
+: 1575906662:0;lh hugefile
+: 1575906662:0;rm hugefile
+: 1575906662:0;sudo ifconfig en0
+: 1575906662:0;ifconfig
+: 1575906662:0;sudo visudo
+: 1575906662:0;vim
+: 1575906662:0;response from daemon: mkdir /var/lib/docker/overlay2/5b8abaf61d496c3b04c2e5961e9665cdca91ada830e78a8434423ad5e696766a/merged: read-only file system
+: 1575906662:0;/var/lib/docker/overlay2/
+: 1575906662:0;cd /var/lib
+: 1575906662:0;h gpi chmod
+: 1575906662:0;h gpi chown
+: 1575906662:0;docker start redis
+: 1575906662:0;h gpi Appium
+: 1575906662:0;/System/Volumes/Data/Applications/Appium.app
+: 1575906662:0;cd Contents
+: 1575906662:0;/System/Volumes/Data/Applications/Appium.app/Contents/MacOS
+: 1575906662:0;ssrdc
+: 1575906662:0;mkdir 4723
+: 1575906662:0;cd 4723
+: 1575906662:0;touch test.log
+: 1575906662:0;cp -rf 4723 4725
+: 1575906662:0;adb devices
+: 1575906662:0;appium -h
+: 1575906662:0;vi ~/.env-configs/zsh_cfg/.aliases.sh 
+: 1575906662:0;npm
+: 1575906662:0;npm install -g appium
+: 1575906662:0;appim
+: 1575906662:0;appium
+: 1575906662:0;appium --help
+: 1575906662:0;screen -r 58569
+: 1575906662:0;gcm "feat: add support for more phones"
+: 1575906662:0;screen -t 2
+: 1575906662:0;kill -9 67921
+: 1575906662:0;kill -9 68179
+: 1575906662:0;sudo kill -9 2988
+: 1575906662:0;sudo kill -9 67919
+: 1575906662:0;gcm "feat: move settings into data dir"
+: 1575906662:0;python cac -h
+: 1575906662:0;python cac -id 6
+: 1575906662:0;python cac -id 6 -s http://localhost:4723/wd/hub
+: 1575906662:0;python cac -id 6 -s http://localhost:4725/wd/hub
+: 1575906662:0;adb --help
+: 1575906662:0;adb -s 4ed9182f shell
+: 1575906662:0;screen -l
+: 1575906662:0;gcm "feat: re-organize settings"
+: 1575906662:0;gcm "feat: refactor of lot's tiny features"
+: 1575906662:0;python pipino/ecs_crawler -id 91 -p 0 -k admin
+: 1575906662:0;gcm "deploy: upgrade site 91"
+: 1575906662:0;screen -ls
+: 1575906662:0;python cac -id 6 -s http://localhost:4725/wd/hub -k java -l Oregon
+: 1575906662:0;gcm "refactor: action_ensure_has_response"
+: 1575906662:0;gcm "refactor: use append instead of reset"
+: 1575906662:0;ga cac/sites/us/site_6.py
+: 1575906662:0;ga cac/data/settings/site_6.yaml
+: 1575906662:0;gd cac/data/settings/phone_gallery.yaml
+: 1575906662:0;ga cac/data/settings/phone_gallery.yaml
+: 1575906662:0;gd cac/data/settings/default.yaml
+: 1575906662:0;ga cac/data/settings/default.yaml
+: 1575906662:0;gcm "feat: add site 7 Kormo"
+: 1575906662:0;python cac -id 6 -k java -l Oregon
+: 1575906662:0;python hades/clear_es_log.py -s 2019-08-30 -e 2019-08-31 -k PP -c
+: 1575906662:0;python hades/clear_es_log.py -s 2019-08-10 -e 2019-08-19 -k PP -c
+: 1575906662:0;python hades/clear_es_log.py -s 2019-08-31 -e 2019-09-15 -k PP -c
+: 1575906662:0;python hades/clear_es_log.py -s 2019-08-31 -e 2019-09-15 -k CP -c
+: 1575906662:0;gcm "feat: Kormo is ready"
+: 1575906662:0;adb shell
+: 1575906662:0;gcm "feat: init site 8 little red book"
+: 1575906662:0;vi ~/.cac/crawler.cfg
+: 1575906662:0;cd Sonimei-Music
+: 1575906662:0;pipenv install --skip-lock timeout_decorator\
+
+: 1575906662:0;gcm "deploy: upgrade site 2,172,173,184"
+: 1575906662:0;cdcc
+: 1575906662:0;cd browser-extensions
+: 1575906662:0;gd nebu_serp/background/background.js
+: 1575906662:0;code .
+: 1575906662:0;gcm "feat: add extension for infojobs"
+: 1575906662:0;python cac
+: 1575906662:0;gcm "feat: make kormo more stable"
+: 1575906662:0;L
+: 1575906662:0;cd .vim
+: 1575906662:0;vi vimrc
+: 1575906662:0;vi 01.md
+: 1575906662:0;cd Documents
+: 1575906662:0;chmod o+wx 19\ æƒµ°æƒ­®ç»ƒ³æƒ¾ƒ¤ä¸ƒ®ç®ƒ·æ³ƒµä¹ƒ«ç¾ƒ®ã€ƒ°å®ƒ¬ç»ƒ³ã€ƒ±
+: 1575906662:0;chmod -R o+wx 19\ æƒµ°æƒ­®ç»ƒ³æƒ¾ƒ¤ä¸ƒ®ç®ƒ·æ³ƒµä¹ƒ«ç¾ƒ®ã€ƒ°å®ƒ¬ç»ƒ³ã€ƒ±
+: 1575906662:0;cd 19\ æƒµ°æƒ­®ç»ƒ³æƒ¾ƒ¤ä¸ƒ®ç®ƒ·æ³ƒµä¹ƒ«ç¾ƒ®ã€ƒ°å®ƒ¬ç»ƒ³ã€ƒ±
+: 1575906662:0;chmod -R a+wx 19\ æƒµ°æƒ­®ç»ƒ³æƒ¾ƒ¤ä¸ƒ®ç®ƒ·æ³ƒµä¹ƒ«ç¾ƒ®ã€ƒ°å®ƒ¬ç»ƒ³ã€ƒ±
+: 1575906662:0;rm 01ä¸ºä»€ä¹ƒ¨è¦å­¦ä¹ƒ€æƒµ°æƒ­®ç»ƒ³æƒ¾ƒ¤åƒ²ƒ¬ç®ƒ·æ³ƒµï¼ƒ¿.mp3
+: 1575906662:0;ll Alogrithm
+: 1575906662:0;cd Alogrithm
+: 1575906662:0;cp -rf ~/Documents/19\ æƒµ°æƒ­®ç»ƒ³æƒ¾ƒ¤ä¸ƒ®ç®ƒ·æ³ƒµä¹ƒ«ç¾ƒ®ã€ƒ°å®ƒ¬ç»ƒ³ã€ƒ± ./
+: 1575906662:0;rm -rf 19\ æƒµ°æƒ­®ç»ƒ³æƒ¾ƒ¤ä¸ƒ®ç®ƒ·æ³ƒµä¹ƒ«ç¾ƒ®ã€ƒ°å®ƒ¬ç»ƒ³ã€ƒ±
+: 1575906662:0;cd geek_time
+: 1575906662:0;rm -rf Alogrithm
+: 1575906662:0;adb devices -l
+: 1575906662:0;gcm "feat: add sign-up/sign-in"
+: 1575906662:0;ssh git-codecommit.us-east-2.amazonaws.com]
+: 1575906662:0;ssh git-codecommit.us-east-2.amazonaws.com
+: 1575906662:0;git config --show-origin core.packedGitLimit
+: 1575906662:0;git --version
+: 1575906662:0;git fetch
+: 1575906662:0;git fsck
+: 1575906662:0;git fetch && git pull --verbose
+: 1575906662:0;git gc
+: 1575906662:0;git config --local http.maxRequestBuffer 100M
+: 1575906662:0;git fetch && git pull -v
+: 1575906662:0;git fetch -v
+: 1575906662:0;git update -v
+: 1575906662:0;git pull -v
+: 1575906662:0;gd pipino/crawler/nebu_sites/us/site_420.py
+: 1575906662:0;ga pipino/crawler/nebu_sites/us/site_420.py
+: 1575906662:0;gcm "feat: add file encoding utf-8"
+: 1575906662:0;gcm "feat: add `role=category_keywords` to kibana logs used for keywords generating"
+: 1575906662:0;gcm "deploy: upgrade site 134, 420~424"
+: 1575906662:0;gcm "feat(7): update location suggests logics"
+: 1575906662:0;pipenv install --skip-lock boto
+: 1575906662:0;pipenv uninstall --skip-lock boto
+: 1575906662:0;pipenv install --skip-lock boto3
+: 1575906662:0;python cac -id 7 -l Nadda
+: 1575906662:0;gcm "feat: add support for sqs"
+: 1575906662:0;cd SeleniumBase
+: 1575906662:0;python daq/sqs_clear.py
+: 1575906662:0;vi daq/sqs_clear.py
+: 1575906662:0;pipenv install -r requirements.txt --skip-lock
+: 1575906662:0;python examples/basic_test.py
+: 1575906662:0;nosetests examples/basic_test.py
+: 1575906662:0;nosetests examples/basic_test.py --browse=chrome
+: 1575906662:0;/Users/lihe/00Li/github/SeleniumBase
+: 1575906662:0;pfd
+: 1575906662:0;h gpi fd
+: 1575906662:0;cfd
+: 1575906662:0;vi index.txt
+: 1575906662:0;z /Users/lihe/01Neb/codes/nebular/compete-crawler
+: 1575906662:0;cd dkcmps
+: 1575906662:0;/Users/lihe/Documents/DockerData/superset/superset/examples/postgres
+: 1575906662:0;cd compete-app-crawler
+: 1575906662:0;gd cac/__init__.py
+: 1575906662:0;gcm "fix: quit after sign-in"
+: 1575906662:0;ga cac/workers/_run.py
+: 1575906662:0;gcm "feat: add sync keywords crawled status from local file"
+: 1575906662:0;ga cac/data
+: 1575906662:0;gcm "feat: update keywords order"
+: 1575906662:0;gco -b local
+: 1575906662:0;seleniumbase install chromedriver
+: 1575906662:0;seleniumbase install chromedriver --lastest
+: 1575906662:0;seleniumbase install chromedriver lastest
+: 1575906662:0;pytest
+: 1575906662:0;pytest cobra/guide/demo_sb1.py
+: 1575906662:0;pytest cobra/guide/demo_sb1.py --demo
+: 1575906662:0;pip3 uninstall seleniumbase
+: 1575906662:0;pipenv install --skip-lock -e /Users/lihe/00Li/github/SeleniumBase/seleniumbase
+: 1575906662:0;pipenv install -e /Users/lihe/00Li/github/SeleniumBase/seleniumbase --skip-lock
+: 1575906662:0;pipenv install -e --skip-lock /Users/lihe/00Li/github/SeleniumBase/seleniumbase
+: 1575906662:0;h gpi pipenv
+: 1575906662:0;pytest cobra/guide/sb_demo1.py --demo
+: 1575906662:0;python cobra/guide/demo5.py
+: 1575906662:0;python demos/pure_selenium/demo5.py
+: 1575906662:0;vi result/index.txt
+: 1575906662:0;appium -p 4725
+: 1575906662:0;pipenv install --skip-lock langid
+: 1575906662:0;vi /tmp/cac/result/index.txt
+: 1575906662:0;cd cac
+: 1575906662:0;cd result
+: 1575906662:0;rm finished_locations.txt
+: 1575906662:0;gd cac/core/behavior.py
+: 1575906662:0;ga cac/core/behavior.py
+: 1575906662:0;gcm "feat: pass site id to parser"
+: 1575906662:0;gd cac/common/helper.py
+: 1575906662:0;ga cac/common/helper.py
+: 1575906662:0;gd cac/workers/_run.py
+: 1575906662:0;gd cac/core/parser.py
+: 1575906662:0;ga cac/core/parser.py
+: 1575906662:0;gd cac/sites/india/site_7.py
+: 1575906662:0;ga cac/sites/india/site_7.py
+: 1575906662:0;gcm "feat: integrate parsers's logic "
+: 1575906662:0;gcm "feat: refine data to parser's format, send message to 2 queues"
+: 1575906662:0;gt
+: 1575906662:0;gcm "feat: refine data to parser's format, support send messages to 2 different queues"
+: 1575906662:0;pipenv install --skip-lock PyYAML 
+: 1575906662:0;python hades/clear_es_log.py -s 2019-09-15 -e 2019-09-30 -k CP -c
+: 1575906662:0;pytest l1/sign_in.py --demo --help
+: 1575906662:0;pytest l1/sign_in.py --demo
+: 1575906662:0;pytest l1/sign_in.py --demo --html=/tmp/report.html
+: 1575906662:0;pytest l1/sign_in.py --demo --message_duration=1
+: 1575906662:0;pipenv install --skip-lock ipretty
+: 1575906662:0;pipenv graph | grep ipretty
+: 1575906662:0;python hades/clear_es_log.py -s 2019-09-15 -e 2019-09-30 -k PP -c
+: 1575906662:0;pytest l1/sign_in.py --demo --message_duration=0.5 -s
+: 1575906662:0;pipenv install --skip-lock timeout-decorator
+: 1575906662:0;z itoos
+: 1575906662:0;vi /tmp/smp.py
+: 1575906662:0;pytest l1/sign_in.py --demo -s --settings_file=/tmp/smp.py
+: 1575906662:0;gcm "feat: expose highlight_with_assert_success"
+: 1575906662:0;git remote add SBO git@github.com:seleniumbase/SeleniumBase.git
+: 1575906662:0;pytest l1/sign_in.py --demo -s
+: 1575906662:0;pip3 uninstall seleniumbase 
+: 1575906662:0;pipenv install --skip-lock -e /Users/lihe/00Li/github/SeleniumBase
+: 1575906662:0;nosetests l1/sign_in.py --demo --message_duration=1
+: 1575906662:0;alias gpi nosetest
+: 1575906662:0;h gpip ns
+: 1575906662:0;h gpi ns
+: 1575906662:0;vi ~/.zsh_history
+: 1575906662:0;pipenv install git+git@github.com:coghost/nose-colorful-timer.git --skip-lock
+: 1575906662:0;pip install git+git@github.com:coghost/nose-colorful-timer.git --skip-lock
+: 1575906662:0;pip install git+git@github.com:coghost/nose-colorful-timer.git 
+: 1575906662:0;pip install git+git@github.com:coghost/nose-colorful-timer.git
+: 1575906662:0;pip install git+git://github.com/coghost/nose-colorful-timer.git
+: 1575906662:0;ga demos
+: 1575906662:0;vi ~/.noserc
+: 1575906662:0;ns l1/sign_in.py --demo --message_duration=1
+: 1575906662:0;ns l1/sign_in.test_01_check_required_elems
+: 1575906662:0;pytest l1/sign_in.py --demo --message_duration=1 -s -k 01
+: 1575906662:0;vi smp.py
+: 1575906662:0;pytest l1/sign_in.py --demo --message_duration=1 --settings_file=/tmp/smp.py -s -k test_01
+: 1575906662:0;pytest l1/sign_in.py --demo --message_duration=1 -s -k test_01
+: 1575906662:0;pytest l1/sign_in.py --demo --message_duration=1 -s --start_page=https://employer.simplyhired-qa.com/account/sign-in
+: 1575906662:0;pytest l1/sign_in.py --demo --message_duration=1 -s
+: 1575906662:0;pytest l1/sign_in.py --demo --message_duration=1 -s -k test_02
+: 1575906662:0;pytest l1/sign_in.py -s -v --demo --message_duration=1 --disable_csp -k test_02 
+: 1575906662:0;pytest l1/sign_in.py -s --message_duration=1 -k test_02 
+: 1575906662:0;pytest l1/sign_in.py -s --demo --message_duration=1 -k test
+: 1575906662:0; . /Users/lihe/.local/share/virtualenvs/SeleniumBase-9Dntvgxt/bin/activate
+: 1575906662:0;pytest l1/sign_in.py -s --demo --message_duration=1 -k test_basic
+: 1575906662:0;seleniumbase install geckodriver latest
+: 1575906662:0;pytest l1/sign_in.py -s --demo --message_duration=1 -k test_02 --browser=firefox
+: 1575906662:0;pytest l1/sign_in.py -s --demo --message_duration=1 -k test_02 --browser=Edge
+: 1575906662:0;seleniumbase install edgedriver
+: 1575906662:0;pytest l1/sign_in.py -s --demo --message_duration=1 -k test_02 --help
+: 1575906662:0;pytest l1/sign_in.py -s --demo --message_duration=1 -k test_02 --browser=safari
+: 1575906662:0;seleniumbase install edgedriver latest
+: 1575906662:0;pytest l1/sign_in.py -s --demo --message_duration=1 -k test_02 --browser=edge
+: 1575906662:0;pytest l1/sign_in.py -s --demo --message_duration=1 -k test_01
+: 1575906662:0;pytest l1/sign_in.py -s --demo --message_duration=1 -k test_02
+: 1575906662:0;pytest l1/sign_in.py -s --demo --message_duration=1 -k test_03
+: 1575906662:0;vi l1/sign_in.yaml
+: 1575906662:0;vi data/test_yaml/ats_base_case.yaml
+: 1575906662:0;pytest l1/sign_in.py -s -v --demo --message_duration=1 -k test_02
+: 1575906662:0;pytest l1/sign_in.py -s -v --message_duration=1
+: 1575906662:0;pytest l1/sign_in.py -s -v 
+: 1575906662:0;pytest l1/sign_in.py -s -v --demo --message_duration=1 
+: 1575906662:0;pytest l1/sign_in.py -s -v --demo --message_duration=1 -k test_03
+: 1575906662:0;pytest l1/sign_in.py -s -v --demo --message_duration=1
+: 1575906662:0;pytest l1/sign_in.py -s -v --demo --message_duration=1 --html=/tmp/l1_sign_in.html
+: 1575906662:0;pytest l1/sign_in.py -s -v --message_duration=1 --html=/tmp/l1_sign_in_fast.html
+: 1575906662:0;pytest l1/sign_in.py -s -v --message_duration=1 --html=/tmp/l1_sign_in_fast.html -k test_02
+: 1575906662:0;vi pytest.ini
+: 1575906662:0;pytest l1/sign_in.py --html=/tmp/l1_sign_in_fast.html -k test_02
+: 1575906662:0;pytest l1/sign_in.py --html=/tmp/l1_sign_in_fast.html
+: 1575906662:0;pytest l1/sign_in.py 
+: 1575906662:0;pytest l1/sign_in.py -s -v --message_duration=1 -k test_04
+: 1575906662:0;pytest l1/sign_in.py -s -v --message_duration=1 -k test_02
+: 1575906662:0;pytest l1/sign_in.py -s -v --demo --message_duration=1 -k test_02 
+: 1575906662:0;pytest l1/sign_in.py -s -v --demo --message_duration=1 -k test_04
+: 1575906662:0;pipenv install --skip-lock icfg
+: 1575906662:0;pytest l1/sign_in.py -k test_04
+: 1575906662:0;gcm "feat: move guide to demo/pure_selenium"
+: 1575906662:0;gcm "feat: add base test support"
+: 1575906662:0;gcm "feat: add pytest config file"
+: 1575906662:0;gcm "feat: add L1 test sign-in"
+: 1575906662:0;h gpi pip
+: 1575906662:0;pip install git+git://github.com/coghost/SeleniumBase.git
+: 1575906662:0;whereis seleniumbase
+: 1575906662:0;pipenv uninstall --skip-lock seleniumbase
+: 1575906662:0;pip uninstall SeleniumBase
+: 1575906662:0;pytest l1/sign_in.py -k test_04_02
+: 1575906662:0;gcm "feat: remove all features based on rewritten of SeleniumBase Library"
+: 1575906662:0;vi cac/data/configs/aws_test.yaml
+: 1575906662:0;pytest l1/sign_in.py -k test_03
+: 1575906662:0;pytest l1/sign_in.py -k test
+: 1575906662:0;gd ats/common
+: 1575906662:0;ga ats/common
+: 1575906662:0;gcm "refactor: move CP/Pretty to _cfg.py"
+: 1575906662:0;gd ats
+: 1575906662:0;ga ats
+: 1575906662:0;gd l1
+: 1575906662:0;gcm "feat: add log to test"
+: 1575906662:0;ga pytest.ini
+: 1575906662:0;gcm "feat: add more option to pytest.ini"
+: 1575906662:0;gcm "feat: refactor sign-in email tests"
+: 1575906662:0;pytest l1/sign_in.py -k test_02
+: 1575906662:0;pytest l1/sign_in.py -k test_05
+: 1575906662:0;pytest l1/sign_in.py -k test_normal
+: 1575906662:0;gcm "fix: hints behavior different between explain/alert"
+: 1575906662:0;pipenv -r
+: 1575906662:0;pipenv lock -r
+: 1575906662:0;pipenv --skip-lock -r
+: 1575906662:0;pipenv graph | gpi logzero
+: 1575906662:0;pipenv graph | grep logzero
+: 1575906662:0;pipenv uninstall --skip-lock appium-python-client 
+: 1575906662:0;vi README.md
+: 1575906662:0;vi re
+: 1575906662:0;pip
+: 1575906662:0;pipenv graph
+: 1575906662:0;vi requirements.txt
+: 1575906662:0;vi P
+: 1575906662:0;vi Pipfile
+: 1575906662:0;pipenv install --skip-lock -r requirements.txt
+: 1575906662:0;gcm "doc: add README.md/requirements.txt"
+: 1575906662:0;kill -9 770
+: 1575906662:0;ps aux gpi android
+: 1575906662:0;whereis emulator
+: 1575906662:0;cd tools
+: 1575906662:0;/usr/local/Caskroom/android-sdk/4333796/tools/emulator ; exit;
+: 1575906662:0;./emulator
+: 1575906662:0;emulator -list-avds
+: 1575906662:0;emulator
+: 1575906662:0;emulator --help
+: 1575906662:0;/usr/local/share/android-sdk
+: 1575906662:0;l build-tools
+: 1575906662:0;l build-tools/29.0.2
+: 1575906662:0;l tools
+: 1575906662:0;l tools/bin
+: 1575906662:0;avdmanager 
+: 1575906662:0;avdmanager create avd "pixel_xl"
+: 1575906662:0;avdmanager create avd 19
+: 1575906662:0;avdmanager create avd --force --name ACKormo --abi google_apis/x86_64 --package 'system-images;android-29;google_apis;x86_64' -d "pixel_xl"
+: 1575906662:0;avdmanager create avd --name ACKormo --abi google_apis/x86_64 --package 'system-images;android-29;google_apis;x86_64'
+: 1575906662:0;avdmanager create avd --name ACKormo --abi google_apis/x86_64 --package 'system-images;android-23;google_apis;x86_64' -d 'pixel_xl'
+: 1575906662:0;avdmanager create avd --name ACKormo --package 'system-images;android-23;google_apis;x86_64' -d 'pixel_xl'
+: 1575906662:0;avdmanager create avd --name ACKormo --package 'system-images;android-23;google_apis;x86_64' -d 'pixel_xl' -p ~/.android/avd
+: 1575906662:0;avdmanager create avd --force --name ACKormo --package 'system-images;android-23;google_apis;x86_64' -d 'pixel_xl' -p ~/.android/avd
+: 1575906662:0;sdkmanager 'system-images;android-29;google_apis;x86_64'
+: 1575906662:0;avdmanager create avd --name ACKormo --package 'system-images;android-29;google_apis;x86_64' -d 'pixel_xl'
+: 1575906662:0;avdmanager list
+: 1575906662:0;sdkmanager --license
+: 1575906662:0;echo $USER
+: 1575906662:0;sdkmanager --licenses
+: 1575906662:0;mkdir platforms
+: 1575906662:0;mkdir system-images
+: 1575906662:0;l system-images
+: 1575906662:0;cd emulator
+: 1575906662:0;cd lib64
+: 1575906662:0;cd qt
+: 1575906662:0;cd lib
+: 1575906662:0;cd ../..
+: 1575906662:0;avdmanager list avd
+: 1575906662:0;emulator -avd ACKormo
+: 1575906662:0;avdmanager
+: 1575906662:0;avdmanager delete avd 
+: 1575906662:0;avdmanager delete avd -n ACKormo
+: 1575906662:0;cd ~/.android
+: 1575906662:0;python pipino/ecs_crawler -id 187 -p 1 -k admin
+: 1575906662:0;python pipino/ecs_crawler -id 187 -p 0 -k 'Oil Gas/Utilities' -l 'ottawa, on'
+: 1575906662:0;python pipino/ecs_crawler -id 187 -p 0 -k 'Oil Gas/Utilities' -l 'quÃ©bec city, qc'
+: 1575906662:0;open ~/.tmp
+: 1575906662:0;open ~/tmp
+: 1575906662:0;gcm "fix: update advertiser.name to compnay, update country code from in to id"
+: 1575906662:0;gd > ~/tmp/24.log
+: 1575906662:0;vi ~/tmp/24.log
+: 1575906662:0;python pipino/ecs_crawler -id 24 -p 0
+: 1575906662:0;python pipino/ecs_crawler -id 24 -p 0 -k python
+: 1575906662:0;gco local
+: 1575906662:0;git fetch SBO
+: 1575906662:0;git merge SBO/master
+: 1575906662:0;pytest l1/sign_in.py
+: 1575906662:0;pipenv install --skip-lock seleniumbase -U
+: 1575906662:0;pipenv install --skip-lock seleniumbase --upgrade
+: 1575906662:0;pipenv install --skip-lock seleniumbase --upgrade 
+: 1575906662:0;pipenv -h
+: 1575906662:0;pipenv install --skip-lock seleniumbase
+: 1575906662:0;pipenv graph | grep selenium
+: 1575906662:0;pytest l1/sign_in.py --reuse_session --start_page=https://employer.simplyhired-qa.com/account/sign-in
+: 1575906662:0;pytest l1/sign_in.py --reuse_session -k 
+: 1575906662:0;pytest l1/sign_in.py --reuse_session 
+: 1575906662:0;GST
+: 1575906662:0;python pipino/ecs_crawler -id 10 -p 0
+: 1575906662:0;python pipino/ecs_crawler -id 10 -p 0 -k admin
+: 1575906662:0;gcm "refactor: rename folder test_yaml to ats_test"
+: 1575906662:0;gcm "refactor: support --reuse_session; add post_setup"
+: 1575906662:0;gcm "deploy: upgrade site 24"
+: 1575906662:0;hades.rdsmg -id 10 -p 16379 -h
+: 1575906662:0;pipenv install --skip-lock stringcase
+: 1575906662:0; . /Users/lihe/.local/share/virtualenvs/nebu-crawler-MG2pm29g/bin/activate
+: 1575793448:0;gcm "feat: add parser"
+: 1575871226:0;python hades/clear_es_log.py -s 2019-09-30 -e 2019-10-15 -k CP -c
+: 1575871602:0;python hades/clear_es_log.py -s 2019-09-30 -e 2019-10-15 -k PP -c
+: 1575872927:0;ag '185.104.149.109' *.txt
+: 1575873326:0;ag '158.46.142.76' *.txt
+: 1575884758:0;gcm "deploy: upgrade site 10, 134"
+: 1575889199:0;gcm "deploy: upgrade site 134"
+: 1575889925:0;hades.rdsmg -id 134 -p 16379 -h
+: 1575894383:0;mkdir iparse
+: 1575898954:0;pipenv install --skip-lock -e /Users/lihe/00Li/github/iz/iparse -u
+: 1575898958:0;pipenv install --skip-lock -e /Users/lihe/00Li/github/iz/iparse -U
+: 1575906660:0;/Users/lihe/00Li/github/Sonimei-Music
+: 1576135237:0;pipenv install --skip-lock -e /Users/lihe/00Li/github/iz/icfg
+: 1576152330:0;z compete-app-crawler
+: 1576157306:0;h 
+: 1576164172:0;appium -p 4723
+: 1576164216:0;python cac -id 7
+: 1576166808:0;python cac -id 425
+: 1576205747:0;gcm "refactor: rename Kormo:7 to Kormo-id:425, Kormo-bd:426"
+: 1576210428:0;ipinfo 103.85.168.9
+: 1576210484:0;ipinfo 45.95.26.58
+: 1576210562:0;ipinfo
+: 1576211208:0;vi ~/.env-configs/zsh_cfg/.functions.sh
+: 1576302603:0;vi ~/tmp/cac/result/index.txt
+: 1576302610:0;python cac -id 426
+: 1576402256:0;vi qyn.txt
+: 1576464586:0;gco -b CC-455
+: 1576465250:0;l | grep chromedriver
+: 1576465472:0;python pipino/ecs_crawler -id 187 -p 1 -k 'Oil Gas/Utilities'
+: 1576467097:0;python pipino/ecs_crawler -id 187 -p 0 -k 'Oil Gas/Utilities'
+: 1576467260:0;gcm "fix(187): can scroll down only a bit distance"
+: 1576467784:0;python pipino/ecs_crawler -id 180 -p 0
+: 1576470928:0;ga pipino/settings/187/startup.yaml
+: 1576470960:0;gcm "fix(187): can scroll down only a bit distance; add kw.per_page_jobs"
+: 1576471023:0;gcm "feat(NebuCrawl): add site.per_page_jobs to log each site per page jobs"
+: 1576476412:0;hades.rdsmg -id 1 -p 16379
+: 1576476416:0;hades.rdsmg -id 1 -p 16379 -w
+: 1576476420:0;hades.rdsmg -id 1 -p 16379 -w search
+: 1576476424:0;hades.rdsmg -id 1
+: 1576480198:0;cd iz
+: 1576480295:0;gs
+: 1576480561:0;git ini
+: 1576480562:0;git init
+: 1576480749:0;git config user.email lihex.go@gmail.com
+: 1576480753:0;git config user.name Hex
+: 1576480757:0;gcm "feat: init iparse"
+: 1576480771:0;git remote add git@github.com:coghost/iparse.git
+: 1576480792:0;git remote add -m git@github.com:coghost/iparse.git
+: 1576480809:0;git remote add origin git@github.com:coghost/iparse.git
+: 1576480814:0;git push -u
+: 1576480847:0;git@github.com:coghost/iparse.git
+: 1576480962:0;cd iparse
+: 1576480971:0;rm -rf __pycache__
+: 1576480989:0;cd tests
+: 1576481048:0;gcm "feat: remove __pycache__
+: 1576481051:0;gcm "feat: remove __pycache__"
+: 1576481104:0;sh pub.sh
+: 1576481213:0;cd ../izen
+: 1576481221:0;cd ../../izen
+: 1576493381:0;python pipino/ecs_crawler -id 1 -p 0 -k
+: 1576494715:0;ga pipino/crawler/nebu_sites
+: 1576494752:0;ga pipino/settings/1/
+: 1576494759:0;ga pipino/settings/iql_searches/mix_1_only_20191216.tsv
+: 1576494792:0;gcm "feat: add special site 1 for crawl all sites total jobs"
+: 1576550389:0;python pipino/ecs_crawler -id 12 -p 0 -k '1>38' -l Oss
+: 1576556187:0;gcm "feat: sync site total jobs to sqs"
+: 1576556651:0;python pipino/ecs_crawler -id 1 -p 0 -k '2>C>'
+: 1576556889:0;python pipino/ecs_crawler -id 1 -p 0 -k '5>B>'
+: 1576558288:0;python pipino/ecs_crawler -id 1 -p 0 -k '2>>'
+: 1576563841:0;python pipino/ecs_crawler -id 1 -p 0 -k '187>A>'
+: 1576564315:0;python pipino/ecs_crawler -id 1 -p 0 -k '180>A>'
+: 1576564522:0;python pipino/ecs_crawler -id 1 -p 0 -k '10>A>'
+: 1576565355:0;python pipino/ecs_crawler -id 1 -p 0 -k '7>A>'
+: 1576572262:0;gd pipino/settings/1/startup.yaml
+: 1576572268:0;gd pipino/settings/iql_searches/mix_1_only_20191216.tsv
+: 1576572272:0;gd pipino/crawler/nebu_sites/us/site_1.py
+: 1576574178:0;hades.rdsmg -id 1 -r -h
+: 1576643475:0;python pipino/ecs_crawler -id 8 -p 0
+: 1576654003:0;gcm "feat: support customize ensure_has_jobs/log_jobs_count"
+: 1576654060:0;gcm "feat: add support for 7/10/12/180"
+: 1576654763:0;gcm "deploy: upgrade site 12/180"
+: 1576727285:0;gcm "deploy: upgrade site 8/134"
+: 1576728826:0;hades.rdsmg -id 134 -p 16379 -w search
+: 1576728859:0;hades.rdsmg -id 134 -p 16379 -w search -r
+: 1576733051:0;pipenv install --skip-lock termgraph
+: 1576734202:0;vi /tmp/g1.txt
+: 1576743029:0;hades.rdsmg -id 201 -p 16379
+: 1576743035:0;hades.rdsmg -id 201 -p 16379 -r
+: 1576746985:0;hades.rdsmg -id 117 -p 16379 -h
+: 1576746989:0;hades.rdsmg -id 117 -p 16379 -z 10
+: 1576748077:0;python pipino/ecs_crawler -id 117 -p 0
+: 1576750290:0;hades.rdsmg -id 86 -p 16379
+: 1576750303:0;hades.rdsmg -id 86 -p 16379 -w search
+: 1576750317:0;hades.rdsmg -id 86 -p 16379 -w search -z 10
+: 1576750680:0;python pipino/ecs_crawler -id 117 -p 1
+: 1576754168:0;hades.rdsmg -id 86 -p 16379 -w search -z 10 
+: 1576754174:0;hades.rdsmg -id 86 -p 16379 -w search -z 10 -r
+: 1576810222:0;cp -rf ~/Downloads/termgraph-master/data/ ./
+: 1576810225:0;cd da
+: 1576810241:0;mkdir data
+: 1576810245:0;mv *.dat data
+: 1576810387:0;cd data
+: 1576810391:0;vi ex2.dat
+: 1576810409:0;vi
+: 1576810425:0;vi ex3.dat
+: 1576810838:0;git checkout master pipino/ecs_crawler/core/_sites.py
+: 1576810916:0;gd origin/master pipino/ecs_crawler/core/_sites.py
+: 1576811343:0;brew install pyenv
+: 1576811492:0;pyenv install --list
+: 1576811579:0;pyenv install 3.8.0
+: 1576812123:0;hades.rdsmg -id 1 -r -z 5
+: 1576812164:0;hades.rdsmg -id 1 -r 
+: 1576812211:0;hades.rdsmg -id 1 -r -w search 
+: 1576817320:0;gcm "fix: revert site 187"
+: 1576817372:0;pyenv list
+: 1576817448:0;ls ~/.pyenv
+: 1576817456:0;vi ~/.env-configs/zsh_cfg/.exports.sh
+: 1576817487:0;python -V
+: 1576817791:0;vi ex4.dat
+: 1576820212:0;vi ex1.dat
+: 1576820216:0;cd .
+: 1576820220:0;vi 1.txt
+: 1576820671:0;python izui/tg1.py
+: 1576826378:0;python hades/watcher.py -d -s lower
+: 1576826854:0;python hades/watcher.py -d -c lower
+: 1576826999:0;python hades/watcher.py -d -c single
+: 1576827004:0;python hades/watcher.py -d -c -h
+: 1576827008:0;python hades/watcher.py -d -h
+: 1576827037:0;python hades/watcher.py -d -c missed
+: 1576827946:0;python hades/watcher.py
+: 1576828159:0;python hades/watcher.py -d
+: 1576828163:0;python hades/watcher.py -d -r
+: 1576829426:0;python hades/watcher.py -r
+: 1576831924:0;hades.cap -h
+: 1576832544:0;hades.cap -p 1
+: 1576832558:0;hades.cap -p 2
+: 1576832617:0;hades.cap -p 3
+: 1576832622:0;hades.cap -p 3 -r
+: 1576832633:0;hades.cap -p 4 -r
+: 1576832733:0;hades.cap -d
+: 1576832754:0;hades.cap -d -r
+: 1576832771:0;hades.cap -p 24
+: 1576832804:0;hades.cap -p
+: 1576833011:0;hades.cap -p 12
+: 1576833562:0;hades.cap -o 
+: 1576833659:0;gd daq/sqs_clear.py
+: 1576833721:0;gd daq/db_action.py
+: 1576833752:0;sh clear.sh
+: 1576833797:0;gcm "feat: add termial graph for max_pages captured"
+: 1576848783:0;hades.cap -o
+: 1576848787:0;hades.cap
+: 1576849052:0;python pipino/ecs_crawler -id 119 -p 0 -l schwerin
+: 1576852144:0;hades.cap -o 12 -s -h
+: 1576852152:0;hades.cap -o 12 -h
+: 1576852163:0;hades.cap -o 12 -c available
+: 1577005580:0;/Users/lihe/.local/share/virtualenvs
+: 1577005746:0;cd ../af2
+: 1577005755:0;cd ../alf
+: 1577006043:0;xcrun simctl delete unavailable
+: 1577006497:0;
+: 1577006498:0;cd ../nose-timer
+: 1577084078:0;gco -b CC-484
+: 1577089455:0;gcm "deploy: upgrade site 117/184/185/418"
+: 1577090394:0;hades.rdsmg -id 117 -p 16379 -z 1
+: 1577090405:0;hades.rdsmg -id 117 -p 16379 -w search -z 10
+: 1577090412:0;hades.rdsmg -id 117 -p 16379 -w search -z 10 -r
+: 1577090927:0;hades.rdsmg -id 117 -p 16379 -w search -r
+: 1577095825:0;python pipino/ecs_crawler -id 5 =p 0
+: 1577095832:0;python pipino/ecs_crawler -id 5 -p 0
+: 1577098748:0;gcm "deploy: upgrade sites 117/184/185/418 proxies"
+: 1577098762:0;./deploy.sh -l -prod
+: 1577099349:0;hades.rdsmg -id 117 -p 16379
+: 1577099359:0;hades.rdsmg -id 117 -p 16379 -r
+: 1577099368:0;hades.rdsmg -id 184 -p 16379 -r
+: 1577099382:0;hades.rdsmg -id 185 -p 16379
+: 1577099408:0;hades.rdsmg -id 418 -p 16379
+: 1577099420:0;hades.rdsmg -id 418 -p 16379 -r
+: 1577099430:0;hades.rdsmg -id 185 -p 16379 -r
+: 1577108731:0;gcm "refactor: separate nebu_sites from crawler module"
+: 1577108858:0;python pipino/ecs_crawler -ss 0 -sp 3
+: 1577108963:0;python pipino/ecs_crawler -id 20 -p 0
+: 1577109057:0;python pipino/ecs_crawler -id 110 -p 0
+: 1577109112:0;python pipino/ecs_crawler -id 107 -p 0
+: 1577111004:0;python pipino/ecs_crawler -ss 1 -sp 3
+: 1577111027:0;python pipino/ecs_crawler -ss 500 -sp 3
+: 1577113600:0;python pipino/ecs_crawler -p 0
+: 1577113664:0;gd pipino/nebu_sites/__init__.py
+: 1577113681:0;ga pipino/nebu_sites/__init__.py
+: 1577113768:0;gcm "refactor(sites): separate sites to nebu_sites"
+: 1577113813:0;gcm "refactor(sites): only import within workers"
+: 1577114697:0;ga
+: 1577114806:0;gcm "refactor(cellCrawler): move aws related from cellCrawler to worker"
+: 1577115311:0;docker exec -it /bin/bash nebuc
+: 1577115356:0;docker exec -it nebuc
+: 1577115424:0;sh run_nb.sh
+: 1577115675:0;gcm "refactor(Dockerfile): separate pipino/* to multiple layers"
+: 1577158162:0;git tag SingleProject
+: 1577158180:0;gp origin SingleProject
+: 1577160608:0;./deploy.sh -l -qa
+: 1577162830:0;./deploy.sh -m
+: 1577163480:0;./deploy.sh -h
+: 1577164879:0;./deploy.sh -p ss
+: 1577165147:0;./deploy.sh -m LOCAL
+: 1577165166:0;./deploy.sh -m LOCAL -p CC
+: 1577165239:0;./deploy.sh -p
+: 1577165501:0;docker rmi 722688396086.dkr.ecr.us-west-2.amazonaws.com/nebu-parser-qa
+: 1577165519:0;docker rmi 191011-1335-lihe-e26226f
+: 1577165532:0;docker rmi 722688396086.dkr.ecr.us-west-2.amazonaws.com/nebu-parser-qa:191011-1335-lihe-e26226f
+: 1577165548:0;docker rmi 722688396086.dkr.ecr.us-west-2.amazonaws.com/nebu-parser-qa:191011-1346-lihe-e26226f
+: 1577165557:0;docker rmi nebu-parser-qa
+: 1577171946:0;./deploy.sh -p CCQAa
+: 1577171948:0;./deploy.sh -p CCQ
+: 1577172004:0;./deploy.sh -p CCQA -l mode
+: 1577172009:0;./deploy.sh -p CCQA -m local
+: 1577172271:0;./deploy.sh
+: 1577173492:0;gd .dockerignore
+: 1577173742:0;gd scripts/CCQA/cloudformation_param.json
+: 1577174841:0;cd .ssh
+: 1577174846:0;vi /etc/hosts
+: 1577174859:0;ssh root@qaA
+: 1577174974:0;ssh -i "pk-nebutec.pem" root@54.186.103.64
+: 1577176396:0;sh run_nb.sh 
+: 1577180192:0;docker exec -it nebuc /bin/bash -c 'echo $PIPINO_PROJECT'
+: 1577180507:0;gcm "refactor(cloudformation): organize cloudformation by project"
+: 1577180524:0;ga scripts/bin/
+: 1577182811:0;python pipino/ecs_crawler -id 107 -p 0 -k pythonasd -pp CC
+: 1577183531:0;python pipino/ecs_crawler -id 107 -p 0 -k pythonasd
+: 1577185324:0;docker run --rm nebuc sh -c 'echo $PIPINO_PROJECT'
+: 1577185348:0;docker run --rm seeker-2 sh -c 'echo $PIPINO_PROJECT'
+: 1577191767:0;ga scripts/bin/ecs_crawl.sh
+: 1577191786:0;gcm "refactor(Dockerfile): add layer bin/ to start scripts"
+: 1577193836:0;gd *.py
+: 1577193857:0;ga never_used/deploy.sh
+: 1577193897:0;gcm "refactor(deploy.sh): support multiple projects"
+: 1577194747:0;gd pipino/ecs_crawler/pipino_log.py
+: 1577194753:0;ga pipino/ecs_crawler/pipino_log.py
+: 1577194819:0;gcm "refactor(pipino_log): add ip.42.pl/raw to ip check server list"
+: 1577196907:0;gd pipino/ecs_crawler/__main__.py
+: 1577196912:0;ga pipino/ecs_crawler/__main__.py
+: 1577196968:0;gcm "refactor(main): use Path to set dev ENV.pipinohome"
+: 1577197093:0;gcm "feat(ecs_crawler): support ENV.PIPINO_PROJECT from dev cc.project or aws CLOUNDFORMATION"
+: 1577202843:0;ga pipino/ecs_crawler/__init__.py
+: 1577202849:0;ga pipino/ecs_crawler/workspace/
+: 1577202901:0;gcm "refactor(project): use workspace to manage projects" 
+: 1577202928:0;gd pipino/ecs_crawler/core/_sites.py
+: 1577202934:0;ga pipino/ecs_crawler/core/_sites.py
+: 1577202952:0;gcm "feat(project): import sites according to project"
+: 1577202989:0;gcm "feat(worker): filter out sites"
+: 1577203048:0;gcm "refactor(aws): only use indeed aws configs within aws_handler"
+: 1577244574:0;gcm "refactor(settings): rename pipino/settings to settings/CC"
+: 1577256680:0;gd pipino/workspace/_const.py
+: 1577256683:0;ga pipino/workspace/_const.py
+: 1577256999:0;gd Dockerfile
+: 1577257168:0;docker exec -it nebuc /bin/bash
+: 1577257376:0;gcm "refactor(nebu_sites): move pipino/nebu_sites to sites/cc"
+: 1577257688:0;ga Dockerfile
+: 1577257773:0;gcm "refactor(Dockerfile): re-update layers to settings/shared modules/sites"
+: 1577257802:0;gcm "refactor: update nebu_sites related files"
+: 1577258116:0;dlog50 nebuc
+: 1577261776:0;hades.kill -n bastion
+: 1577261853:0;sudo kill -9 78067
+: 1577261870:0;sudo kill -9 80928
+: 1577261884:0;ps aux gpi auto
+: 1577263124:0;gcm "refactor(deployment): use CC/CP/CRS.Dockerfile for each project's deployment"
+: 1577263786:0;vi runp3.sh
+: 1577264084:0;docker build -t seeker-2 .
+: 1577264122:0;docker build -t -f CC.Dockerfile seeker-2 .
+: 1577267464:0;gcm "fix: miss using 6379 instead of REDIS_STANDARD_PORT"
+: 1577272711:0;hades.kill -n autossh
+: 1577272797:0;sudo killall autossh
+: 1577273708:0;gcm "feat: add indeed/glassdoor company review/salary"
+: 1577273900:0;docker stop tmp_redis && docker rm tmp_redis
+: 1577286921:0;z Hades
+: 1577287079:0;z Sonimei
+: 1577291191:0;cd output
+: 1577291306:0;mv indeed_review_output.yaml indeed_review.yaml
+: 1577325979:0;/Users/lihe/01Neb/dkcmps
+: 1577326053:0;cd ~/Documents
+: 1577326063:0;cd DockerData
+: 1577326070:0;cd superset/examples
+: 1577326076:0;cd superset
+: 1577326080:0;cd examples
+: 1577326085:0;cd postgres
+: 1577326104:0;h
+: 1577350823:0;gcm "refactor(Prometheus): enable prometheus only in CC-PROD"
+: 1577351028:0;gco CC-484
+: 1577353009:0;gp origin CC-484
+: 1577366839:0;cp ~/Desktop/c1000.txt /tmp
+: 1577367804:0;gco -b CRI-4
+: 1577372657:0;python pipino/ecs_crawler -id 107 -p 0 -k python
+: 1577375803:0;gcm "refactor(aws): move gz to S3Handler"
+: 1577375837:0;ga pipino/crawler
+: 1577375847:0;ga pipino/ecs_crawler
+: 1577375854:0;ga pipino/workspace
+: 1577375877:0;gcm "refactor(_sites): move sites to workspace"
+: 1577421235:0;docker run -itd --name tmp_redis -p 6381:6379 redis:latest
+: 1577421806:0;hades.rdsmg -id 301 -p 6381
+: 1577421811:0;hades.rdsmg -id 301 -p 6381 -w search
+: 1577421822:0;hades.rdsmg -id 301 -p 6381 
+: 1577421830:0;python pipino/ecs_crawler -id 301
+: 1577422565:0;redis-cli HSET GLOBAL_SETTINGS version 0 -p 6381
+: 1577434338:0;gcm "refactor(aws): only load existed queue"
+: 1577434455:0;ga pipino/workspace/_local_only_setup.py
+: 1577434495:0;ga pipino/workspace/_projects.py
+: 1577434519:0;gcm "feat: support customize local redis port"
+: 1577434582:0;gcm "feat: init project CRS; add site 301 for indeed company reviews"
+: 1577436684:0;gd origin/master pipino/ecs_crawler/core/cell.py
+: 1577436878:0;gd origin/master pipino/ecs_crawler/core/aws_handler.py
+: 1577437326:0;gd origin/master >> /tmp/455.diff
+: 1577437331:0;vi /tmp/455.diff
+: 1577441364:0;gco CC-455
+: 1577441545:0;python pipino/ecs_crawler -id 202 -p 0 -l 'las vegas, nv' -k 'non-exists'
+: 1577594551:0;ofd
+: 1577594574:0;cfg
+: 1577594585:0;mkdir 2020
+: 1577594588:0;cd 201
+: 1577601315:0;gd pipino/ecs_crawler/core/sqs_wrapper.py
+: 1577603897:0;gcm "feat: with 4 steps to get company reviews details"
+: 1577603941:0;gd origin/master >> /tmp/cri4.diff
+: 1577603952:0;vi cri4.diff
+: 1577610478:0;cp run_nb.sh nb-crs.sh
+: 1577610482:0;vi nb-crs.sh
+: 1577610592:0;sh nb-crs.sh
+: 1577611282:0;docker start nb-crs.sh
+: 1577611288:0;dlog50 nb-crs
+: 1577612177:0;python pipino/crawler/nebular/customize_proxies.py -id 3 -a -n 64 -m 1
+: 1577612441:0;mv vendor_3_only_113.csv vendor_301_1.csv
+: 1577612446:0;python pipino/crawler/nebular/customize_proxies.py -id 3 -a -n 128 -m 1
+: 1577612667:0;python pipino/crawler/nebular/customize_proxies.py -id 301 -a -n 128 -m 1
+: 1577613009:0;hades.rdsmg -id 301 -p 6381 -r
+: 1577613018:0;docker start nb-crs
+: 1577613023:0;sh run_nb.sh && dlog50 nebuc
+: 1577613253:0;docker stop nebuc && docker rm nebuc
+: 1577613268:0;sh nb-crs.sh && dlog50 nb-crs
+: 1577613804:0;docker stop nb-crs && docker rm nb-crs
+: 1577613830:0;ga scripts
+: 1577613852:0;gcm "deploy: update cloudformation for CRS"
+: 1577613905:0;gcm "feat(CRS): use aws-user:nb-crs's credential for s3/sqs"
+: 1577613932:0;gcm "feat(301): add new proxies"
+: 1577674104:0;vi ~/.aws/config
+: 1577675770:0;gd scripts/CRS/cloudformation.json
+: 1577678681:0;cp ~/Downloads/pk-nbcrs.pem ./
+: 1577687406:0;gd settings/CRS/aws_settings.yaml
+: 1577687417:0;ga settings/CRS/aws_settings.yaml
+: 1577687435:0;gcm "feat(aws): update credentials to us-east-2"
+: 1577687523:0;gcm "feat(deploy.sh): support switch us-west-2/us-east-2"
+: 1577694314:0;gd pipino
+: 1577694652:0;gcm "refactor(NebuCrawl): rename formatted_response to parse_response_with_js"
+: 1577695381:0;gd settings/CRS/301/startup.yaml
+: 1577695385:0;ga settings/CRS/301/startup.yaml
+: 1577695470:0;gcm "refactor(301): update response structure"
+: 1577705463:0;ping crs_bastion
+: 1577705640:0;chmod 400 pk-nbcrs.pem
+: 1577705643:0;ssh -i "pk-nbcrs.pem" root@18.221.146.223
+: 1577705666:0;ssh -i "pk-nbcrs.pem" centos@18.221.146.223
+: 1577705752:0;ssh -i "pk-nebutec.pem" centos@bastion
+: 1577705883:0;ssh -i "pk-nebutec.pem" centos@qa_bastion
+: 1577706614:0;hades.rdsmg -id 301 -p 26380
+: 1577706829:0;gcm "feat(cloudformation): support deploy to us-east-2"
+: 1577709608:0;mapkibana && mapredis && mapqa
+: 1577710506:0;gcm "feat(proxy): only log out of proxies in Project CC/CCQA"
+: 1577710590:0;cd ~/.aws/
+: 1577717993:0;gp origin CRI-4
+: 1577718266:0;gco -b CC-389
+: 1577721428:0;gcm "refactor(aws handler): support create multiple sqs queue resources loaded from settings"
+: 1577721478:0;redis-cli HSET GLOBAL_SETTINGS version 0
+: 1577721515:0;redis-cli HSET GLOBAL_SETTINGS version 19
+: 1577721879:0;hades.rdsmg -id 1 -w search 
+: 1577721882:0;hades.rdsmg -id 1 -w search -r
+: 1577721887:0;hades.rdsmg -id 1 -r
+: 1577722350:0;hades.rdsmg -id 1 -r -w search -z 1
+: 1577722370:0;hades.rdsmg -id 1 -r -z 2
+: 1577722421:0;hades.rdsmg -id 1 -r -w search -z 10
+: 1577722988:0;gd pipino/ecs_crawler/workers/_worker.py
+: 1577722997:0;ga pipino/ecs_crawler/workers/_worker.py
+: 1577723025:0;gcm "refactor(worker): add extra_handler for site-job-count"
+: 1577723075:0;gcm "feat(site 1): mixed crawler for crawling all sites total jobs"
+: 1577764816:0;py
+: 1577765174:0;hades.rdsmg -id 1 -r -z 10
+: 1577765180:0;hades.rdsmg -id 1 -r -w search
+: 1577765291:0;hades.rdsmg -id 1 -w search
+: 1577765405:0;cp crawler.cfg crawler.cfg.cc
+: 1577766026:0;cp crawler.cfg crawler.cfg.crs
+: 1577768685:0;spcc
+: 1577768745:0;export PIPINO_PROJECT=CRS
+: 1577768778:0;export PIPINO_REDIS_PORT=6381
+: 1577775985:0;rm Pipfile
+: 1577775997:0;vi crawler.cfg.cc
+: 1577776016:0;mv crawler.cfg.cc cc.crawler.cfg
+: 1577776019:0;vi cc.crawler.cfg
+: 1577776097:0;mv crawler.cfg.crs crs.crawler.cfg
+: 1577777668:0;pushd ~/tmp
+: 1577777711:0;dirs -v
+: 1577777719:0;dirs
+: 1577777757:0;popd
+: 1577777862:0;source ~/.cc/env.crs
+: 1577778640:0;gd pipino/crawler/nebular/icfg.py
+: 1577778647:0;ga pipino/crawler/nebular/icfg.py
+: 1577778689:0;gcm "feat(icfg): remove cc.project, add compete.init_queues"
+: 1577778695:0;gd pipino/ecs_crawler/core/aws_handler.py
+: 1577778705:0;gd settings
+: 1577778717:0;ga settings
+: 1577778723:0;gd pipino/workspace/_projects.py
+: 1577778730:0;ga pipino/ecs_crawler/core/aws_handler.py
+: 1577778776:0;gcm "feat(aws): only init resources in settings.yaml file"
+: 1577782627:0;vi run_nb.sh
+: 1577782643:0;cp run_nb.sh cc.sh
+: 1577782696:0;cp cc.sh ccqa.sh
+: 1577782732:0;vi ccqa.sh
+: 1577782775:0;sh ccqa.sh
+: 1577782777:0;dlog50 nbcc
+: 1577782809:0;sh cc.sh
+: 1577782896:0;dlog50 nbcc 
+: 1577782935:0;mv ccqa.sh qacc.sh
+: 1577783040:0;sh qacc.sh && dlog50 nbcc
+: 1577783113:0;mv nb-crs.sh crs.sh
+: 1577783175:0;docker build -f CRS.Dockerfile -t nb-crs .
+: 1577783345:0;vi crs.sh
+: 1577783368:0;dlog50 nbcrs
+: 1577783625:0;gcm "feat: remove _sites.py, use importlib"
+: 1577783640:0;gd pipino/ecs_crawler/__init__.py
+: 1577783649:0;gd pipino/workspace
+: 1577783692:0;gd pipino/ecs_crawler/workers/_run.py
+: 1577783962:0;gcm "refactor(project): remove improper project CCQA, use project+LEVEL instead"
+: 1577785836:0;source ~/.cc/env.cc
+: 1577787900:0;gcm "fix: revert qa cloudformation project to CC"
+: 1577932704:0;gp origin CC-389
+: 1577932923:0;cdf
+: 1577932931:0;cd 2020
+: 1577933432:0;mkdir cc cp crs
+: 1577933492:0;mkdir miscellany
+: 1577933510:0;cp ../2019/miscellany/CHANGELOG.md miscellany
+: 1577934754:0;cd ~/.cc/
+: 1577934766:0;cp env.cc env.ccqa
+: 1577934769:0;vi env.ccqa
+: 1577934848:0;setqa
+: 1577934871:0;python pipino/ecs_crawler -id 1
+: 1577946189:0;python pipino/ecs_crawler -id 1 -p 0 -k '12>A>'
+: 1577946652:0;python pipino/ecs_crawler -id 1 -p 0
+: 1577950426:0;gcm "deploy: move virtual site mixCrawler 1 to prod"
+: 1577952289:0;gco -b CC-488
+: 1577953467:0;cd .aws
+: 1577953497:0;vi credentials
+: 1577955665:0;cd ~/.cc
+: 1577955680:0;cp crs.crawler.cfg cp.crawler.cfg
+: 1577955855:0;cp crs.sh cp.sh
+: 1577956291:0;gcm "feat: create project CP company profile"
+: 1577962380:0;cp env.crs env.cp
+: 1577962901:0;hades.rdsmg -p 6381 -id 158 -w search
+: 1577962907:0;hades.rdsmg -p 6381 -id 158 -r
+: 1577962911:0;hades.rdsmg -p 6381 -id 158
+: 1577971481:0;cp ~/Desktop/Talreja.htm /tmp/talreja.htm
+: 1577971551:0;python sites/cp/us/site_158_parser.py
+: 1577971727:0;python sites/cp/us/site_158.py
+: 1577972102:0;vi env.cc
+: 1577972156:0;env
+: 1577973445:0;unset PIPINOHOME
+: 1577973461:0;vi env.cp
+: 1577974431:0;cat env.cp
+: 1578009427:0;vi crs.crawler.cfg
+: 1578018129:0;pipenv uninstall --skip-lock lxml
+: 1578018455:0;pipenv install --skip-lock lxml
+: 1578018704:0;hades.w
+: 1578020540:0;pipenv graph | grep lxml
+: 1578020631:0;vi cp.crawler.cfg
+: 1578034324:0;python pipino/ecs_crawler -id 158 -p 0 -k 'irfan khan'
+: 1578035470:0;gcm "feat: add scroll for max page is 1 site"
+: 1578035483:0;gd deploy.sh
+: 1578036487:0;ga deploy.sh
+: 1578036507:0;gcm "deploy: set project CP to region:us-east-2"
+: 1578036551:0;gcm "feat: add project CP's first site linkedin profile 158"
+: 1578037778:0;pipenv install --skip-lock -e /Users/lihe/00Li/github/iz/iparse
+: 1578038046:0;pipenv uninstall --skip-lock 6e6b3bf
+: 1578038089:0;pip3 uninstall iparse
+: 1578038101:0;pipenv uninstall --skip-lock iparse
+: 1578039471:0;pipenv graph | grep iparse
+: 1578039742:0;vi config.hex
+: 1578040535:0;cd ~/01Neb
+: 1578040539:0;cdd codes
+: 1578040542:0;cd codes
+: 1578040546:0;cd nebu
+: 1578041428:0;git remote set0url --add origin https://git-codecommit.us-west-2.amazonaws.com/v1/repos/qa-automation
+: 1578041476:0;h gpi git remote
+: 1578041486:0;history | grep 'git remote'
+: 1578041539:0;git remote 0v
+: 1578041545:0;git remote
+: 1578041557:0;git remote set-url --add origin https://git-codecommit.us-west-2.amazonaws.com/v1/repos/qa-automation
+: 1578041691:0;git remote add origin https://git-codecommit.us-west-2.amazonaws.com/v1/repos/qa-automation
+: 1578041723:0;git push --set-upstream origin master
+: 1578043705:0;hades.rdsmg -p 6381 -id 301
+: 1578048539:0;redis-cli -p 6381 HSET GLOBAL_SETTINGS version 0
+: 1578048623:0;ga requirements.frozen
+: 1578048660:0;gcm "refactor(158): update with yaml support"
+: 1578061636:0;rgsv
+: 1578061761:0;hades.rdsmg -id 177
+: 1578061771:0;hades.rdsmg -id 177 -w
+: 1578061774:0;hades.rdsmg -id 177 -w search
+: 1578062152:0;python pipino/ecs_crawler -id 177 -p 0 -k 'ICT>>>'
+: 1578063602:0;setdftv0
+: 1578063619:0;hades.rdsmg -id 177 -r
+: 1578063623:0;hades.rdsmg -id 177 -w search -r
+: 1578063626:0;python pipino/ecs_crawler -id 177 -p 0
+: 1578064206:0;ga sites/cc/be/site_177.py
+: 1578064372:0;gcm "fix: wrong order of scroll_to_top and do_scroll"
+: 1578064380:0;gd settings/CC/177/startup.yaml
+: 1578064404:0;ga settings/CC/177/startup.yaml
+: 1578064494:0;gd settings/CC/iql_searches/be_177_only_20200103.tsv
+: 1578064499:0;ga settings/CC/iql_searches/be_177_only_20200103.tsv
+: 1578064572:0;gcm "fix(177): fix mistakes of code/yaml/tsv"
+: 1578064583:0;ga sites/cc/de/site_119.py
+: 1578064607:0;gcm "fix(119): quick fix layout change of has_jobs"
+: 1578064681:0;gcm "deploy: upgrade sites 177/119"
+: 1578065193:0;hades.rdsmg -id 177 -p 16379
+: 1578065197:0;hades.rdsmg -id 177 -p 16379 -h
+: 1578065222:0;hades.rdsmg -id 177 -p 16379 -w search -r
+: 1578108675:0;gco -b CRI-27
+: 1578108749:0;runcrs
+: 1578108800:0;runcrs -k 'Best Buy'
+: 1578115248:0;hades.rdsmg -id 301 -w search
+: 1578115257:0;hades.rdsmg -id 301 
+: 1578115269:0;hades.rdsmg -p 6381 -id 301 
+: 1578115407:0;python pipino/ecs_crawler -id 301 -p 0 -k indeed
+: 1578115461:0;hades.rdsmg -p 6381 -id 301 -w search -z 10
+: 1578115809:0;hades.rdsmg -p 6381 -id 301 -w search -r
+: 1578115831:0;hades.rdsmg -p 6381 -id 301 -r
+: 1578116006:0;hades.rdsmg -p 6381 -id 301 -w search -z 2000
+: 1578127092:0;python pipino/ecs_crawler -id 301 -p 0 -k starbucks
+: 1578128730:0;hades.rdsmg -p 6381 -id 301 -w search
+: 1578128793:0;hades.rdsmg -p 6381 -id 301 -w search -z 2000 -r
+: 1578129334:0;hades.rdsmg -p 6381 -id 301 -w search -z 2000 
+: 1578130499:0;python pipino/ecs_crawler -id 301 -p 0 -k 'Global Connections, Inc'
+: 1578132950:0;ga settings/CRS/proxy_sets/luminati_super_us.csv
+: 1578132974:0;gcm "deploy: add luminati us super proxy"
+: 1578133142:0;python pipino/ecs_crawler -id 202 -p 0 -l 'las vegas, nv'
+: 1578133327:0;gd pipino/ecs_crawler/core/update_settings.py
+: 1578133344:0;ga pipino/ecs_crawler/core/update_settings.py
+: 1578133483:0;gcm "feat(update_settings): update PROXY_SPREAD = 3600, non-CC project can run immediately"
+: 1578133491:0;gd pipino/ecs_crawler/core/redis_client.py
+: 1578133504:0;ga pipino/ecs_crawler/core/redis_client.py
+: 1578133625:0;gcm "feat(redis_client): add crawled keyword reuse delay; use same feature as proxy when add keywords"
+: 1578133633:0;gd pipino/ecs_crawler/workers/single_worker.py
+: 1578133646:0;ga pipino/ecs_crawler/workers/single_worker.py
+: 1578133685:0;gcm "feat(single_worker): support auto load startup yaml to redis in development"
+: 1578133697:0;gd settings/CRS/301/site_settings.yaml
+: 1578133706:0;gd sites/crs/us/site_301.py
+: 1578133755:0;ga _button'])\
++\
++    def log_jobs_count(self, **kwargs):\
++        super().log_jobs_count(attr='content')\
+\
+     def _parse_initial_data(self):\
+         resp = self.driver.execute_script(self.response_parse_script)\
+(END)\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
+
+: 1578133768:0;ga sites/crs/us/site_301.py
+: 1578133837:0;gcm "feat(301): always load all reviews; fix non-highlight text"
+: 1578133848:0;gd pipino/crawler/nebular/site_params.py
+: 1578133897:0;gcm "feat(301): set 301 to dynamic proxies"
+: 1578133915:0;gd settings/CRS/301
+: 1578133952:0;gcm "feat(301): update config files, keywords"
+: 1578136856:0;vi ~/.cc/crs.crawler.cfg
+: 1578136875:0;vi ~/.cc/env.crs
+: 1578139736:0;python pipino/ecs_crawler -id 301 -p 0
+: 1578139903:0;gcm "feat(NebuCrawl): customize smooth_scroll long/short sleep chance for each site"
+: 1578139910:0;buildcrsimg
+: 1578139924:0;sh crs.sh && dlog50 nbcrs
+: 1578140332:0;docker stop nbcrs && docker rm nbcrs
+: 1578141370:0;vi known_hosts
+: 1578141407:0;ssh -i "pk-nbcrs.pem" centos@crs_bastion
+: 1578141458:0;ssh centos@crs_bastion
+: 1578141799:0;ps aux gpi crs_bastion
+: 1578141859:0;mapcrs
+: 1578141985:0;hades.rdsmg -h
+: 1578141998:0;hades.rdsmg -id 301 -p 26380 -z 10
+: 1578142012:0;hades.rdsmg -id 301 -p 26380 -w search -z 10
+: 1578146932:0;docker rmi 722688396086.dkr.ecr.us-east-2.amazonaws.com/nb-cp:200103-1059-lihe-fe45237
+: 1578146941:0;docker rmi 722688396086.dkr.ecr.us-east-2.amazonaws.com/nb-cp:200103-1033-lihe-fe45237
+: 1578147066:0;docker rmi 722688396086.dkr.ecr.us-east-2.amazonaws.com/nb-cp:200103-1031-lihe-fe45237
+: 1578147072:0;docker rmi 722688396086.dkr.ecr.us-east-2.amazonaws.com/nb-cp:200103-1030-lihe-fe45237
+: 1578147083:0;docker rmi 722688396086.dkr.ecr.us-east-2.amazonaws.com/nb-cp:200103-1029-lihe-fe45237
+: 1578147131:0;docker rmi 722688396086.dkr.ecr.us-east-2.amazonaws.com/nb-crs:200104-2020-lihe-3c7d906
+: 1578147160:0;docker rmi 722688396086.dkr.ecr.us-west-2.amazonaws.com/seeker-2:200102-1602-lihe-78cf2b5
+: 1578147178:0;docker rmi 722688396086.dkr.ecr.us-west-2.amazonaws.com/nebu-parser
+: 1578147393:0;./deploy.sh -
+: 1578147419:0;./deploy.sh -p CC -m WHAT
+: 1578147443:0;./deploy.sh -p CRS -m WHAT
+: 1578199986:0;hades.rdsmg -id 301 -p 26380 -w search -z 2000
+: 1578214887:0;gp origin CRI-27
+: 1578234675:0;mkdir lqy
+: 1578234677:0;cd lqy
+: 1578234692:0;mkdir c-8
+: 1578234693:0;cd c-8
+: 1578234733:0;touch c8.1.xlxs c8.2.xlxs c8.3.xlxs
+: 1578234764:0;rm -rf c-8
+: 1578235059:0;mkdir C5éƒ´€åƒ´®ç®ƒçƒ°ƒ¦
+: 1578235142:0;mkdir C8åƒ»ºå®ƒºèµƒ¤äº§ç®ƒçƒ°ƒ¦
+: 1578235155:0;mkdir C9æƒ·ƒ€å½ƒ‚èµƒ¤äº§ç®ƒçƒ°ƒ¦
+: 1578235217:0;mkdir C13èµƒ¤éƒ§ƒ±ç®ƒçƒ°ƒ¦
+: 1578235240:0;mkdir C14æƒ«ƒ¥ä¿ƒ½ç®ƒçƒ°ƒ¦
+: 1578235257:0;mkdir C15ç¨ƒ®åƒªƒç®ƒçƒ°ƒ¦
+: 1578235270:0;mkdir C17åƒ°ƒ¨åƒ°ƒ¬ç®ƒçƒ°ƒ¦
+: 1578235297:0;mkdir C21ç»¼åƒ°ƒ¨äºƒ«åƒªƒ
+: 1578235311:0;mkdir C22åƒ¨¶åº¦ç®ƒçƒ°ƒ¦
+: 1578235418:0;cd ~/Desktop/lqy
+: 1578235425:0;mkdir C18æ³ƒµå¾ƒ«äºƒ«åƒªƒç®ƒçƒ°ƒ¦
+: 1578235443:0;mkdir C19æ³ƒµå¾ƒ«äºƒ«åƒªƒç®ƒçƒ°ƒ¦
+: 1578238433:0;cd numbers
+: 1578282972:0;python pipino/ecs_crawler -id 6 -p 0
+: 1578283024:0;python pipino/ecs_crawler -id 134 -p 0
+: 1578283101:0;python pipino/ecs_crawler -id 187 -p 0
+: 1578283199:0;python pipino/ecs_crawler -id 420 -p 0
+: 1578283349:0;cd ~/.config
+: 1578290139:0;gbrt
+: 1578297666:0;setcrs
+: 1578297741:0;./deploy.sh -p CRS
+: 1578298984:0;vi ~/.aws/config 
+: 1578298996:0;vi ~/.aws/credentials
+: 1578299018:0;vi ~/.ssh/config\
+: 1578299019:0;vi ~/.ssh/config
+: 1578299247:0;h gpi git 
+: 1578299317:0;cat 
+: 1578299329:0;cat ~/.ssh/config
+: 1578299523:0;ls ~/.git
+: 1578299531:0;ls .git
+: 1578309133:0;gcm "deploy: upgrade sites 119"
+: 1578324305:0;cd ~/Desktop/lqy/numbers
+: 1578324314:0;cp ~/Desktop/template.numbers ./
+: 1578356890:0;pipenv graph | grep hot-redis
+: 1578356943:0;buildcpimg
+: 1578377469:0;vi ~/.cc/env.cp
+: 1578397061:0;python pipino/ecs_crawler -id 158 -p 0\\
+
+: 1578397684:0;gd requirements.frozen
+: 1578397692:0;gd pipino/ecs_crawler/core/cell.py
+: 1578397750:0;ga pipino/ecs_crawler/core/cell.py
+: 1578397802:0;gcm "feat(CellCrawler): add page_extra_info to sqs message"
+: 1578397844:0;gd *.yaml
+: 1578398071:0;gcm "feat(CP 158): support crawl linkedin profiles and random number similar profiles in single life-cycle"
+: 1578398829:0;python pipino/ecs_crawler -id 158
+: 1578404062:0;gcm "feat(CP 158): use luminati super indian proxy"
+: 1578404069:0;gp origin CC-488
+: 1578404527:0;cp ~/Downloads/pk-nbcp.pem ./
+: 1578405554:0;chmod 400 pk-nbcp.pem
+: 1578405558:0;ssh -i "pk-nbcp.pem" centos@cp_bastion
+: 1578405595:0;ssh centos@cp_bastion
+: 1578416344:0;gd settings/CP
+: 1578416367:0;ga sites/cp/us/site_158.py
+: 1578416385:0;gcm "fix(CP 158): add more tricks to avoid being discoverd"
+: 1578416434:0;gcm "feat(CP 158): update scroll chance"
+: 1578459559:0;python pipino/ecs_crawler -id 158 -p 0 -k Yash -l Tongia
+: 1578459874:0;python pipino/ecs_crawler -id 158 -p 0 -k Priyanka -l 'V.'
+: 1578463072:0;python pipino/ecs_crawler -id 158 -p 0 -k Prabhu -l Pant
+: 1578469414:0;ga sites/cp/us/hrds.py
+: 1578469431:0;gcm "fix(hot-redis): add connection timeout"
+: 1578469464:0;gcm "fix(hot-redis): add connection timeout; check if remained tasks"
+: 1578469476:0;gcm "fix(hot-redis): add connection timeout; check if have remained tasks"
+: 1578469561:0;gcm "feat(CP 158): add more tricks and meaningful logs"
+: 1578478486:0;gcm "fix(CP 158): avoid of capture auth required page"
+: 1578480553:0;pipenv install --skip-lock hot-redis
+: 1578492314:0;vi ~/.cc/cp.crawler.cfg
+: 1578497922:0;gd sites/cp/us/hrds.py
+: 1578498107:0;gcm "feat(CP 158): only create new account when total number less than 1000"
+: 1578537378:0;hades.cap -o 2
+: 1578537954:0;gcm "deploy: upgrade site 188"
+: 1578539128:0;pipenv install --skip-lock -e /Users/lihe/00Li/github/iz/ihelp
+: 1578539309:0;python hades/clear_es_log.py -s 2019-10-14 -e 2019-10-31 -k CC
+: 1578539318:0;python hades/clear_es_log.py -s 2019-10-14 -e 2019-10-31 -k CP
+: 1578539336:0;python hades/clear_es_log.py -s 2019-10-14 -e 2019-10-31 -k CP -h
+: 1578539339:0;python hades/clear_es_log.py -s 2019-10-14 -e 2019-10-31 -k CP -c
+: 1578542677:0;hades.cap -o 240
+: 1578542696:0;hades.cap -o 120
+: 1578544625:0;hades.cap -o 48
+: 1578554861:0;python hades/clear_es_log.py -s 2019-10-14 -e 2019-10-31 -k PP -c
+: 1578554950:0;python hades/clear_es_log.py -s 2019-10-31 -e 2019-11-15 -k PP -c
+: 1578555649:0;hades.cap -o 26
+: 1578555753:0;python hades/watcher.py -o 26
+: 1578555762:0;python hades/watcher.py -o 26 -h
+: 1578556283:0;python hades/watcher.py -o 26 -r
+: 1578556509:0;python hades/watcher.py -o 48
+: 1578560703:0;gcm "deploy: upgrade site 116"
+: 1578566979:0;hades.rdsmg -id 177 -p 16379 -w search
+: 1578566990:0;hades.rdsmg -id 177 -p 16379 -w search -z 5
+: 1578566995:0;hades.rdsmg -id 177 -p 16379 -w search -z 5 -r
+: 1578567732:0;gcm "feat: can enable/disable get host ip when crawler start"
+: 1578572092:0;git merge --abort
+: 1578572127:0;git branch -d CC-494
+: 1578623165:0;docker rm nbcp
+: 1578623220:0;pip3 uninstall hades
+: 1578623249:0;python hades/watcher.py -h
+: 1578623525:0;cp ~/.hades/hades.cfg ~/tmp/hades.config.backup
+: 1578623545:0;pip3 uninstall hades && python setup.py install
+: 1578623741:0;/Users/lihe/01Neb/codes/aliyun/hades
+: 1578624091:0;gd settings/CP/158/startup.yaml
+: 1578624184:0;doawseast2login
+: 1578624311:0;./deploy.sh -p CP
+: 1578626275:0;gcm "feat: add check_connection and fetch indian profiles only"
+: 1578630943:0;python pipino/ecs_crawler -id 158 -p 0 -k Anas -l Khan
+: 1578639494:0;hades.rdsmg -id 116 -p 16379 -w search -z 5 -r
+: 1578640312:0;ssh nebu
+: 1578640500:0;gcm "feat(NebuCrawl): add initial_y_negative so we can scroll up/back to elem"
+: 1578641360:0;gd sites/cp/us/site_158.py
+: 1578647487:0;ping nebula
+: 1578647930:0;ag 'rsync'
+: 1578647971:0;ssh hex@nebula
+: 1578648851:0;gcm "feat(CP 158): ensure has similars; choose some sections to scroll; avoid of some bottom scrolling"
+: 1578648905:0;rsync -avz --delete --progress compete-crawler hex@nebula:~/nebula/
+: 1578648962:0;rsync -avz --delete --progress compete-crawler --exclude 'compete-crawler/.git' hex@nebula:~/nebula/
+: 1578649097:0;tree
+: 1578649376:0;cd tmp
+: 1578649495:0;cd compete-crawler
+: 1578649503:0;rsync -avz --delete --progress --include-from="/Users/lihe/tmp/nbcp_rsync" --exclude=compete-crawler/* hex@nebula:~/nebula/compete-crawler
+: 1578649514:0;rsync -avz --delete --progress --include-from="/Users/lihe/tmp/nbcp_rsync" --exclude=* hex@nebula:~/nebula/compete-crawler
+: 1578649525:0;rsync -avz --delete --progress --include-from="/Users/lihe/tmp/nbcp_rsync"  hex@nebula:~/nebula/compete-crawler
+: 1578649609:0;vi nbcp_rsync
+: 1578649629:0;mv nbcp_rsync nbcp_rsync_exc
+: 1578649722:0;vi nbcp_rsync_exc
+: 1578649728:0;rsync -avz --delete --progress compete-crawler --exclude-from=/Users/lihe/tmp/nbcp_rsync_exc hex@nebula:~/nebula/
+: 1578653343:0;pyenv versions
+: 1578654490:0;gco CC-467
+: 1578654691:0;python pipino/ecs_crawler -id 105 -p 0
+: 1578655664:0;python pipino/ecs_crawler -id 119 -p 0
+: 1578656022:0;python pipino/ecs_crawler -id 119 -p 0 -l beck
+: 1578662162:0;gcm "deploy: upgrade site 105"
+: 1578662408:0;ssh l@nebula
+: 1578662458:0;ssh l@lxl
+: 1578662896:0;git branch -D CC-494
+: 1578662936:0;gco CC-494
+: 1578663249:0;./deploy.sh -p CCQA
+: 1578667050:0;ssh hex@lxl
+: 1578668419:0;export AWS_PROFILE=ohio
+: 1578668900:0;sh cp.sh
+: 1578668904:0;dlog50 nbcp
+: 1578669519:0;docker stop nbcp && docker stop nbcp
+: 1578709019:0;vi cp.sh
+: 1578709274:0;python pipino/ecs_crawler
+: 1578711224:0;mapcp
+: 1578711282:0;docker build -f CP.Dockerfile -t nb-cp .
+: 1578711294:0;sh cp.sh && dlog50 nbcp
+: 1578711732:0;python pipino/ecs_crawler -id 158 -p 0 -k Nandit - Saini
+: 1578711878:0;python pipino/ecs_crawler -id 158 -p 0 -k Nandit -l Saini
+: 1578725632:0;python pipino/ecs_crawler -id 158 -p 0 &
+: 1578727552:0;python pipino/ecs_crawler -id 158 -p 0 & >> /tmp/158.log
+: 1578727565:0;python pipino/ecs_crawler -id 158 -p 0 >> /tmp/158.log &
+: 1578727582:0;fg
+: 1578727611:0;python pipino/ecs_crawler -id 158 -p 
+: 1578884354:0;mapqa
+: 1578887365:0;gcm "fix(CP 158): wrong end-condition of pick similar profile"
+: 1578896287:0;cat nb-cp.log
+: 1578896305:0;tail nb-cp.log
+: 1578896329:0;vi nebu
+: 1578896340:0;rm nb-cp.log
+: 1578902424:0;mv nb-cp.log nb-cp.log.bak
+: 1578903363:0;vi nb-cp.log
+: 1578903404:0;cp nb-cp.log ~/tmp/nb-cp.log
+: 1578981174:0;gcm "deploy: upgrade site 135"
+: 1578989503:0;mkdir cw
+: 1578989505:0;open cw
+: 1578992228:0;cd wow-awesome-terminal
+: 1578992532:0;mv wow-awesome-terminal wow
+: 1578992548:0;git clone git@github.com:coghost/wow-awesome-terminal.git
+: 1578992559:0;cd wow
+: 1578992563:0;cd ../wow-awesome-terminal
+: 1578993652:0;git remote add origin git@github.com:coghost/voit.git
+: 1578993661:0;git remote -v
+: 1578993771:0;git remote remove origin 
+: 1578993782:0;git remote add origin git@github.com:coghost/vto.git
+: 1578993802:0;mv wow-awesome-terminal vto
+: 1578993806:0;cd vto
+: 1579000653:0;gcm "deploy: upgrade all sites"
+: 1579057353:0;rm profiles.log
+: 1579059882:0;gco CC-488
+: 1579059916:0;gp origin CC-488 --force
+: 1579066809:0;docker build -f CC.Dockerfile -t seeker-2 .
+: 1579067111:0;vi cc.sh
+: 1579067119:0;sh cc.sh && dlog50 nbcc
+: 1579067947:0;docker stop nbcc && docker rm nbcc
+: 1579067968:0;uptime
+: 1579068950:0;dki
+: 1579068971:0;docker stop nbcp && docker rm nbcp
+: 1579069259:0;pipenv 
+: 1579069266:0;pipenv --python 3.7
+: 1579069585:0;ga settings/CC/16
+: 1579069588:0;ga settings/CC/189
+: 1579069590:0;ga settings/CC/8
+: 1579069609:0;gcm "fix: layout change of sites 8, 16, 189"
+: 1579069624:0;gcm "deploy: upgrade site 8,16,189"
+: 1579069930:0;snm -fs
+: 1579069944:0;snm -h
+: 1579069955:0;snm -scan
+: 1579069966:0;snm -V
+: 1579069981:0;snm -fs -nc
+: 1579070007:0;snm -cfs
+: 1579071247:0;hades.cap -o 1
+: 1579072056:0;cd ../SeleniumBase
+: 1579072094:0;pytest examples/my_first_test.py
+: 1579073645:0;pytest examples/my_first_test.py --demo
+: 1579073737:0;pytest l1/sign_in.py --reuse_session
+: 1579074333:0;pytest l1/sign_in.py -k test_06
+: 1579074709:0;ls examples/jan15.py
+: 1579074714:0;cat examples/jan15.py
+: 1579075629:0;cd ../vto
+: 1579084276:0;hades.cap -o 12
+: 1579086006:0;man ascii
+: 1579144401:0;ag TECH_CODE_TEAM 2019/*
+: 1579144415:0;ag -h
+: 1579144424:0;ag aws
+: 1579144434:0;cd ../2019
+: 1579144438:0;ag password
+: 1579144448:0;ag CODE
+: 1579144649:0;cd 2018
+: 1579144652:0;vi wifi.md
+: 1579144657:0;ag wifi
+: 1579144660:0;ag TECH
+: 1579144663:0;ag TECH_CODE
+: 1579144669:0;ag TECH_CODE *
+: 1579144672:0;ag TECH_CODE_TEAM
+: 1579144684:0;ag team
+: 1579144887:0;hades.cap -o 4
+: 1579144902:0;hades.cap -o 24
+: 1579144922:0;hades.cap -o 24 -h
+: 1579146969:0;python pipino/ecs_crawler -h
+: 1579146998:0;python pipino/ecs_crawler --help
+: 1579160970:0;python pipino/ecs_crawler -id 158 -p 0
+: 1579167505:0;alias gpi cat
+: 1579170314:0;vi profiles.log
+: 1579170640:0;cp prod_profiles.log ~/tmp
+: 1579170951:0;tar zcvf prod_profiles.log lkn.tag.gz
+: 1579170959:0;tar zcvf prod_profiles.log
+: 1579171004:0;cp ~/tmp/prod_profiles.log ./
+: 1579171013:0;tar zcvf dat.tar.gz prod_profiles.log
+: 1579171060:0;cp all_linkedin_profiles_sqs_messages.gz ~/tmp
+: 1579273159:0;git rebase origin/master
+: 1579273286:0;gco CC-502
+: 1579274037:0;gcm "deploy: upgrade sites 23,67,95,427"
+: 1579276291:0;hades.rdsmg -id 101 -w search -r
+: 1579276367:0;hades.rdsmg -id 101 -r 
+: 1579278305:0;cd ~/.env-configs
+: 1579278308:0;ag mount
+: 1579278321:0;grep mount * -r -n 
+: 1579278335:0;cd zsh_cfg
+: 1579324790:0;cd wdpriv
+: 1579324795:0;cd pictures/Mix2
+: 1579324811:0;rmdir Camera
+: 1579324821:0;rm -rf Camera
+: 1579324850:0;cd Camera
+: 1579324869:0;mv Camera cam
+: 1579324874:0;rmdir cam
+: 1579325041:0;sudo rm -rf cam
+: 1579325624:0;python pipino/ecs_crawler -id 124 -p 0 
+: 1579327554:0;killall ShadowsocksX-NG
+: 1579327556:0;ps aux gpi shadow
+: 1579331188:0;vi .priv.wd.sh
+: 1579331203:0;umount /Volumes/wdpriv
+: 1579331206:0;sudo umount /Volumes/wdpriv
+: 1579331217:0;sudo umount /Volumes/wdpub
+: 1579331389:0;killall umount
+: 1579331396:0;sudo killall umount
+: 1579331422:0;sudo kill -9 86327
+: 1579331429:0;sudo kill -9 86328
+: 1579331431:0;ps aux gpi umount
+: 1579503368:0;gcm "fix(101/124): 101 layout change; 124 js parse error"
+: 1579513436:0;cd .vdo
+: 1579605461:0;z qa-automation
+: 1579606063:0;exit
+: 1579606073:0;z SeleniumBase
+: 1579607371:0;pytest examples/jan15.py
+: 1579607503:0;python hades/clear_es_log.py -s 2019-10-31 -e 2019-11-15 -k CP -c
+: 1579609576:0;python hades/clear_es_log.py -s 2019-11-15 -e 2019-11-30 -k CP -c
+: 1579670060:0;mkdir ats
+: 1579670062:0;cd ats
+: 1579670233:0;git clone https://git-codecommit.us-west-2.amazonaws.com/v1/repos/qa-automation
+: 1579670257:0;cd qa-automation
+: 1579670281:0;rm -rf qa-automation
+: 1579670294:0;vi ~/.gitconfig
+: 1579670303:0;lg
+: 1579670382:0;grv
+: 1579674056:0;git checkout -b AT-10
+: 1579676445:0;vi ~/.ats/ats.cfg
+: 1579676453:0;pytest l1/sign_in.py -k test_01
+: 1579677990:0;pytest l1/at_10.py
+: 1579678073:0;gcm "feat: add test at_10"
+: 1579678315:0;alias gpi gcm
+: 1579690563:0;cd l1
+: 1579690567:0;file at_10.py
+: 1579691042:0;git stash
+: 1579691048:0;git stash pop
+: 1579691058:0;ga l1/at_10.py
+: 1579691099:0;gcm "refactor(at_10): reorganize code and comments"
+: 1579691109:0;ga data/ats_test/test_at_10.yaml
+: 1579691121:0;gcm "feat: add test_at_10.yaml"
+: 1579691750:0;gcm "docs: add overview for project structure"
+: 1579691924:0;gco AT-10
+: 1579760553:0;hades.rdsmg -id 101
+: 1579760854:0;redisv0
+: 1579761046:0;export AWS_PROFILE=default
+: 1579770209:0;python pipino/ecs_crawler -id 101 -p 0
+: 1579842771:0;gcm "fix(101): add new super_fr_dual proxy"
+: 1579859810:0;cd LFPWD
+: 1579859827:0;cd 2016movie
+: 1579859845:0;file éƒ¸¿åƒ§ƒè¾¾\(åƒªƒ€éƒµ¿æƒ´¶èƒ·ƒ¯çƒ©ƒ¨\)Avatar.2009.EXTENDED.BD-1080p.X264.AAC-99Mp4.mp4
+: 1579859897:0;xattr -d éƒ¸¿åƒ§ƒè¾¾\(åƒªƒ€éƒµ¿æƒ´¶èƒ·ƒ¯çƒ©ƒ¨\)Avatar.2009.EXTENDED.BD-1080p.X264.AAC-99Mp4.mp4
+: 1579860489:0;cd ~/Desktop
+: 1579930932:0;snma163
+: 1579944460:0;open ~/tmp/
+: 1580374266:0;python pipino/ecs_crawler -id 12 -p 0 -k '2>40' -l Oss
+: 1580374401:0;python pipino/ecs_crawler -id 12 -p 0 -k '>40' -l Oss
+: 1580374610:0;python pipino/ecs_crawler -id 12 -p 0 -l Oss
+: 1580378766:0;hades.rdsmg -id 134 -p 16379
+: 1580378801:0;python pipino/crawler/nebular/customize_proxies.py -id 134 -a -n 64 -m 1
+: 1580379563:0;gcm "fix: layout change of sites 12"
+: 1580390502:0;ga pipino/crawler/nebular/site_params.py
+: 1580390624:0;gcm "fix: layout change of sites 12; add disable-dev-shm-usage for page crash"
+: 1580443119:0;g
+: 1580443131:0;ga settings/CC/proxy_sets/vendor_134_only.csv
+: 1580443152:0;gcm "fix(134): refresh proxies"
+: 1580443177:0;gcm "deploy: upgrade sites 101,124,12,134"
+: 1580444649:0;hades.rdsmg -id 10 -p 16379 -z 10
+: 1580448104:0;gcm "fix(10): layout change caused json parse error"
+: 1580466649:0;fuser --help
+: 1580466762:0;brew install ntfs-3g
+: 1580467930:0;cd ~/.env-configs/zsh_cfg/
+: 1580467942:0;sh .priv.wd.sh
+: 1580479752:0;hades.rdsmg -id 10 -p 16379
+: 1580613545:0;gcm 
+: 1580613564:0;gcm "fix(10): layout change of has jobs"
+: 1580698791:0;gco -b BPO-01
+: 1580699138:0;/Users/lihe/01Neb/codes/nebutec/nebu-crawler/
+: 1580699152:0;/Users/lihe/01Neb/codes/nebutec/nebu-crawler
+: 1580699252:0;cd nebu/sites
+: 1580699275:0;cd .././
+: 1580699366:0;gd nebu/sites/indeed.py
+: 1580699382:0;gd nebu/settings/startup/indeed_review.yaml
+: 1580699392:0;gd nebu/settings/startup/indeed_company.yaml
+: 1580699670:0;gcm "feat(indeed): update company reviews"
+: 1580702428:0;docker start tmp_redis
+: 1580719361:0;redis2v0
+: 1580719643:0;python pipino/ecs_crawler -id 30 -p 0 -k 'web development>1' -l india
+: 1580719790:0;python pipino/ecs_crawler -id 30 -p 0 -k 'web development>10' -l india
+: 1580727288:0;gcm "feat(NebuCrawl): add mock_get_page for bot.get_page()"
+: 1580727306:0;gd pipino/crawler/nebular/nebu_behavior.py
+: 1580727749:0;gcm "feat(30 Upwork): init site upwork.com"
+: 1580728355:0;gcm "deploy: upgrade sites 17"
+: 1580788863:0;gcm "feat(upwork): use agencies as pages"
+: 1580790249:0;whereis chromedriver
+: 1580790274:0;which chromedriver
+: 1580790382:0;cp chromedriver ~/tmp/
+: 1580790387:0;vi /usr/local/bin/chromedriver
+: 1580790452:0;python pipino/ecs_crawler -id 103 -p 0 -k python
+: 1580790681:0;gcm "fix(103): layout change, remove two_pane_container"
+: 1580793544:0;git push
+: 1580793669:0;setcp
+: 1580795074:0;cd ~/Desktop/upwork
+: 1580809600:0;mkdir 01
+: 1580809602:0;cd 01
+: 1580811664:0;sh a.sh
+: 1580811673:0;vi a.sh
+: 1580813508:0;vi a1.sh
+: 1580813589:0;sh a1.sh
+: 1580814102:0;curl https://www.upwork.com/agencies/public/api/agency-profile/agencies/ciphertext/\~01ccc6126faaf3882e > ag1.json
+: 1580817143:0;mkdir upwork
+: 1580817144:0;cd upwork
+: 1580888605:0;z /Users/lihe/00Li/github/itool
+: 1580888621:0;python crs/upw.py
+: 1580888644:0;cd crs
+: 1580889197:0;python upw.py
+: 1580902322:0;python pipino/ecs_crawler -id 74 -p 0 -k admin
+: 1580902494:0;gfd
+: 1580902523:0;gcm "deploy: upgrade sites 74"
+: 1580913059:0;seleniumbase
+: 1580913064:0;seleniumbase--help
+: 1580913161:0;seleniumbase --help
+: 1580977141:0;vi ~/.cc/cc.crawler.cfg
+: 1580979548:0;hades.rdsmg -id 10 -p 16379 -z 10 -r
+: 1580994801:0;seleniumbase install chromedriver latest
+: 1581033726:0;cd ../../bak/cobra-ats-selenium
+: 1581033742:0;vi .git/config
+: 1581033755:0;cd .git
+: 1581033760:0;cat H
+: 1581033763:0;vi HEAD
+: 1581033774:0;cd ../
+: 1581060849:0;gcm "deploy: upgrade sites 10,109,188"
+: 1581067029:0;python pipino/ecs_crawler -id 17 -p 0 -k admin
+: 1581067473:0;open /tmp/nebu/17
+: 1581069100:0;ping www.google.com
+: 1581069358:0;curl https://www.google.com/
+: 1581069400:0;ssrc
+: 1581070041:0;gcm "feat(17): update to response_parse_script"
+: 1581236409:0;cd ~/Downloads
+: 1581303859:0;open /tmp/nebu/109
+: 1581303886:0;python pipino/ecs_crawler -id 109 -p 0 -k admin
+: 1581304467:0;gcm "feat(109): update 109 with response_parse_script"
+: 1581313269:0;/Users/lihe/00Li/github/vto/vto/
+: 1581317208:0;python hades/clear_es_log.py -s 2019-11-25 -e 2019-11-30 -k CP -c
+: 1581317239:0;python hades/clear_es_log.py -s 2019-11-30 -e 2019-12-15 -k CP -c
+: 1581392712:0;vsc
+: 1581392744:0;vsc colorful-master
+: 1581394936:0;open /tmp/nebu/124
+: 1581397695:0;python pipino/ecs_crawler -id 124 -p 0 -k web
+: 1581397907:0;gcm "fix(124): update response_parse_script"
+: 1581413296:0;pipenv install --skip-lock colorful
+: 1581520516:0;open /tmp
+: 1581522438:0;cd /tmp/nvs
+: 1581522625:0;python apps/thief.py
+: 1581561407:0;mv nvs .nvs
+: 1581569856:0;python
+: 1581571124:0;screen -r
+: 1581572424:0;python pipino/ecs_crawler -id 10 -p 0 -k admin -l basel
+: 1581572638:0;hades.rdsmg -id 10 -p 16379 -z 20 -r
+: 1581572649:0;hades.rdsmg -id 109 -p 16379 -z 20 -r
+: 1581573092:0;ll nvs
+: 1581573258:0;python nvs/app.py
+: 1581573468:0;hades.rdsmg -id 10 -p 16379 -r
+: 1581573918:0;python nvs/app.py -h
+: 1581573932:0;python nvs/app.py -g 16232
+: 1581574357:0;python nvs/app.py -g 16232 -h
+: 1581574362:0;python nvs/app.py -g 16232 -m 32
+: 1581574442:0;python nvs/app.py -g 16232 -p 2
+: 1581574821:0;hades.rdsmg -id 109 -p 16379 -r
+: 1581574870:0;python nvs/app.py -g 16232 -n 2
+: 1581576888:0;hades.rdsmg -id 109 -p 16379 -z 10
+: 1581576896:0;hades.rdsmg -id 109 -p 16379 -z 100
+: 1581581131:0;ls ~/.ssh
+: 1581581161:0;vi id_rsa.pub
+: 1581581470:0;vi config
+: 1581582135:0;vi ~/.env-configs/zsh_cfg/.aliases.sh
+: 1581583298:0;python nvs/app.py -id 27501 -h
+: 1581583302:0;python nvs/app.py -id 27501 -album
+: 1581583815:0;python nvs/app.py -album -id 27501
+: 1581583842:0;python nvs/app.py -album -id 16232
+: 1581583851:0;python nvs/app.py -album -id 26292
+: 1581583968:0;python nvs/app.py -album -id 26292 -s -h
+: 1581584101:0;python nvs/app.py -album -id 25334 -s
+: 1581584148:0;python nvs/app.py -album -id 26292 -s
+: 1581584203:0;python nvs/app.py -id 26292 -s
+: 1581584214:0;python nvs/app.py -id 26292 -album -s
+: 1581584321:0;python nvs/app.py -id 26292 -n -h
+: 1581584326:0;python nvs/app.py -id 26292 -h
+: 1581584331:0;python nvs/app.py -id 26292 -n 0
+: 1581585515:0;python nvs/app.py -id 27559 -album
+: 1581585970:0;python nvs/app.py -album -id 25429 -s
+: 1581585987:0;python nvs/app.py -album -id 26233 -s
+: 1581586373:0;python nvs/app.py -album -id 26233 -s -v
+: 1581586410:0;python nvs/app.py -id 25334 -n 0 -f
+: 1581586458:0;python nvs/app.py -id 25334 -n 0 -s
+: 1581586469:0;python nvs/app.py -id 25334 -n 0
+: 1581586471:0;python nvs/app.py -id 25334 -n 0 -v
+: 1581587136:0;python nvs/app.py -album -id 26233 -n 0
+: 1581588680:0;python nvs/app.py -album -id 26233
+: 1581588683:0;python nvs/app.py -album -id 26233 -v
+: 1581589131:0;python nvs/app.py -album -id 20763
+: 1581589341:0;python nvs/app.py -album -id 20763 -v
+: 1581589354:0;python nvs/app.py -id 26233a
+: 1581589387:0;python nvs/app.py -id 26233 -v
+: 1581589404:0;python nvs/app.py -id 16232 -album
+: 1581589409:0;python nvs/app.py -id 16232 -album -v
+: 1581589431:0;python nvs/app.py -id 16232 -v
+: 1581590577:0;python nvs/app.py -id 20763 -album
+: 1581590583:0;python nvs/app.py -id 20763 -album -v
+: 1581590627:0;python nvs/app.py -ab -id 25429
+: 1581590633:0;python nvs/app.py -ab -id 25429 -v
+: 1581590642:0;python nvs/app.py -ab -id 26233
+: 1581590647:0;python nvs/app.py -ab -id 26292
+: 1581590654:0;python nvs/app.py -ab -id 27501
+: 1581590659:0;python nvs/app.py -ab -id 27559
+: 1581590664:0;python nvs/app.py -ab -id 25334
+: 1581591508:0;python nvs/app.py -ab -id 25334 -v -w 0
+: 1581591662:0;python nvs/app.py -ab -id 25334 -v -w 1
+: 1581591706:0;python nvs/app.py -ab -id 25334 -v
+: 1581591733:0;python nvs/app.py -id 26233
+: 1581591755:0;python nvs/app.py =id 26292
+: 1581591762:0;python nvs/app.py -id 26292
+: 1581591974:0;python nvs/app.py -id 26292 -v
+: 1581591991:0;python nvs/app.py -id 26292 -v -w 0
+: 1581592005:0;python nvs/app.py -id 25334
+: 1581592009:0;python nvs/app.py -id 25334 -v
+: 1581592016:0;python nvs/app.py -id 25334 -v -w 0
+: 1581592054:0;python nvs/app.py -id 27501
+: 1581592057:0;python nvs/app.py -id 25334 -w 0
+: 1581592189:0;python nvs/app.py -id 25429
+: 1581592199:0;python nvs/app.py -id 25429 -h
+: 1581592202:0;python nvs/app.py -id 25429 -f
+: 1581592207:0;python nvs/app.py -id 25429 -w 0
+: 1581592944:0;python nvs/app.py -id 27559 -v
+: 1581592965:0;python nvs/app.py -id 23270 -ab
+: 1581592985:0;python nvs/app.py -id 27559 -f
+: 1581593004:0;python nvs/app.py -id 27559
+: 1581593011:0;python nvs/app.py -id 27559 -w 0
+: 1581593306:0;python nvs/app.py -id 23270 -f
+: 1581593346:0;python nvs/app.py -id 23270
+: 1581593350:0;python nvs/app.py -id 23270 -w 0
+: 1581593359:0;python nvs/app.py -id 26002 -ab
+: 1581593567:0;python nvs/app.py -id 26002 -w 1
+: 1581593601:0;python nvs/app.py -ab -id 26005
+: 1581593705:0;python nvs/app.py -ab -id 26005 
+: 1581593752:0;python nvs/app.py -ab -id 26005 -w
+: 1581593754:0;python nvs/app.py -ab -id 26005 -w 1
+: 1581593882:0;python nvs/app.py -ab -id 26005 -d
+: 1581593888:0;python nvs/app.py -ab -id 26005 -w 0
+: 1581593892:0;python nvs/app.py -ab -id 26005 -v
+: 1581593918:0;python nvs/app.py -ab -id 24041
+: 1581594111:0;python nvs/app.py -ab -id 22204
+: 1581594198:0;python nvs/app.py -ab -id 23448
+: 1581594633:0;python nvs/app.py -ab -id 24180
+: 1581595379:0;python nvs/app.py -ab -id 24936
+: 1581595484:0;python nvs/app.py -ab -id 21887
+: 1581595500:0;python nvs/app.py -ab -id 23100
+: 1581595775:0;python nvs/app.py -ab -id 25586
+: 1581595824:0;python nvs/app.py -ab -id 27257
+: 1581595995:0;python nvs/app.py -ab -id 19411
+: 1581596040:0;python nvs/app.py -ab -id 25783
+: 1581596056:0;python nvs/app.py -id 25783
+: 1581596193:0;python nvs/app.py -id 25783 -v
+: 1581596197:0;python nvs/app.py -id 25783 -v -w 1
+: 1581597278:0;python nvs/app.py -id 25179 -h
+: 1581597286:0;python nvs/app.py -id 25179 -ad 27396
+: 1581598175:0;python nvs/app.py -id 25179 -ad 27396 -v
+: 1581598178:0;python nvs/app.py -id 25179 -ad 27396 -v -w 1
+: 1581598191:0;python nvs/app.py -id 25179 -ad 27396 -v -w 0
+: 1581598209:0;python nvs/app.py -id 22631
+: 1581598253:0;python nvs/app.py -id 22631 -ab
+: 1581598453:0;python nvs/app.py -ab -id 26938
+: 1581598550:0;python nvs/app.py -ab -id 18073
+: 1581598736:0;python nvs/app.py -ab -id 21743
+: 1581598920:0;python nvs/app.py -ab -id 25800
+: 1581598998:0;python nvs/app.py -ab -id 23646
+: 1581599029:0;python nvs/app.py -ab -id 21928
+: 1581599169:0;python nvs/app.py -ab -id 27494
+: 1581599379:0;python nvs/app.py -ab -id 25332
+: 1581599483:0;python nvs/app.py -ab -id 27000
+: 1581599531:0;python nvs/app.py -ab -id 25609
+: 1581600679:0;python nvs/app.py -ab -id 27125
+: 1581600689:0;python nvs/app.py -id 27125
+: 1581601114:0;python nvs/app.py -ab -id 24749
+: 1581601267:0;python nvs/app.py -ab -id 27384
+: 1581601282:0;python nvs/app.py -ab -id 27384 -d
+: 1581601290:0;python nvs/app.py -ab -id 27384 -w 0
+: 1581601343:0;python nvs/app.py -ab -id 24774
+: 1581601399:0;python nvs/app.py -ab -id 24693
+: 1581601467:0;python nvs/app.py -ab -id 23302
+: 1581601576:0;python nvs/app.py -ab -id 25856
+: 1581601624:0;python nvs/app.py -ab -id 22494
+: 1581601720:0;python nvs/app.py -ab -id 18879
+: 1581602285:0;python nvs/app.py -ab -id 24043
+: 1581602413:0;python nvs/app.py -ab -id 25283
+: 1581602790:0;python nvs/app.py -ab -id 25068
+: 1581602973:0;python nvs/app.py -id 25068 -v -w 1
+: 1581602979:0;python nvs/app.py -id 25068 -v -w 0
+: 1581603288:0;python nvs/app.py -ab -id 26411
+: 1581603303:0;python nvs/app.py -id 26411 -h
+: 1581603310:0;python nvs/app.py -id 26411 -p 32
+: 1581603442:0;python nvs/app.py -id 26411
+: 1581603459:0;python nvs/app.py -id 26411 -f
+: 1581603479:0;python nvs/app.py -id 20440 -ab 
+: 1581603526:0;python nvs/app.py -id 20451 -ab 
+: 1581603583:0;python nvs/app.py -ab -id 18071
+: 1581603600:0;python nvs/app.py -ab -id 19681
+: 1581604882:0;python nvs/app.py -id 19681 -f
+: 1581604997:0;python nvs/app.py -id 19681
+: 1581605003:0;python nvs/app.py -id 19681 -w 0
+: 1581605470:0;python nvs/app.py -id 19681 -w 0 -a
+: 1581606682:0;python nvs/app.py -id 25068
+: 1581606704:0;python nvs/app.py -id 25068 -d
+: 1581606708:0;python nvs/app.py -id 25068 -ab
+: 1581606806:0;python nvs/app.py -id 25068 -f
+: 1581606895:0;python nvs/app.py -id 18879
+: 1581607584:0;python nvs/app.py -id 24774
+: 1581608027:0;python nvs/app.py -w 0 -a -f
+: 1581608070:0;python nvs/app.py -id 25856 -f
+: 1581610396:0;python nvs/app.py -id 25856 
+: 1581610401:0;python nvs/app.py -w 0 -a
+: 1581611830:0;python nvs/app.py -id 22162
+: 1581650354:0;python nvs/app.py -id 22162 -w 1
+: 1581650507:0;python nvs/app.py -id 22162 -ab
+: 1581653369:0;gcm "feat(428~437): move sites to prod"
+: 1581653725:0;python nvs/app.py -id 22162 -n 2
+: 1581653768:0;python nvs/app.py -id 22162 -v
+: 1581660807:0;python nvs/app.py -w 0
+: 1581670707:0;/Users/lihe/01Neb/codes/bak/cobra-ats-selenium/
+: 1581670711:0;tree --dirsfirst -L 2 -I '__pycache__|__init__.pyc'
+: 1581670718:0;tree --dirsfirst -L 1 -I '__pycache__|__init__.pyc'
+: 1581670734:0;tree --dirsfirst -L 1 -I '__pycache__|__init__.pyc|*.sh'
+: 1581670740:0;tree --dirsfirst -L 1 -I '__pycache__|__init__.pyc|*.sh|.txt'
+: 1581670743:0;tree --dirsfirst -L 1 -I '__pycache__|__init__.pyc|*.sh|*.txt'
+: 1581672088:0;gcm "deploy: upgrade sites 17,10,109,124,428,429,430,431,432,433,434,435,436,437"
+: 1581673390:0;curl cip.cc
+: 1581675918:0;python nvs/app.py -id 16232 -n 2 -f
+: 1581675928:0;python nvs/app.py -id 16232 -n 2 -v
+: 1581676061:0;python nvs/app.py -id 16232 -ab
+: 1581676226:0;python nvs/app.py -id 16232 -n 2
+: 1581676287:0;python nvs/app.py -id 16232
+: 1581676813:0;gco -b aw
+: 1581690609:0;vi settings/CC/global_settings.yaml
+: 1581690651:0;gcm "deploy: upgrade sites 13,123"
+: 1581692998:0;ps aux gpi autossh
+: 1581694527:0;ssh bastion
+: 1581694601:0;ps aux gpi kibana
+: 1581696446:0;python nvs/app.py -a -n 2
+: 1581696460:0;python nvs/app.py -a -n 2 -h
+: 1581696468:0;python nvs/app.py -a -n 2 -p 32
+: 1581734420:0;lh
+: 1581735585:0;cd 01Neb
+: 1581735594:0;cd Ats
+: 1581735604:0;cd ../codes
+: 1581735622:0;cd nebular
+: 1581735895:0;cat id_rsa.pub
+: 1581735916:0;cat id_rsa.github.pub
+: 1581736592:0;ssh-keygen -t rsa -C "hexiang@awesomego.com.cn" -f hex-aw
+: 1581736605:0;cat hex-aw
+: 1581736607:0;cat hex-aw.pub
+: 1581737783:0;gcm "feat(428~437): remove all 10 temp sites"
+: 1581738610:0;ssh -T git@github.com
+: 1581739394:0;vi hex-aw.pub
+: 1581739593:0;ssh -vT git@github.com
+: 1581739731:0;git clone https://github.com/tardisone/cobra-ats-selenium.git
+: 1581741275:0;git clone git@github.com:tardisone/cobra-ats-selenium.git
+: 1581741420:0;git clone git@github.com-hex-aw:tardisone/cobra-ats-selenium.git
+: 1581741795:0;git clone git@github.com-aw:tardisone/cobra-ats-selenium.git
+: 1581741810:0;hades.dkr -d img
+: 1581742178:0;cd cobra-ats-selenium
+: 1581747550:0;vi ~/.ssh/config
+: 1581751843:0;mkdir tgit
+: 1581751857:0;ssh-keygen -t rsa -C "demo@awesomego.com.cn" -f demo_rsa
+: 1581751893:0;cat demo_rsa.pub
+: 1581752145:0;cd ~/.ssh
+: 1581752219:0;cd tgit
+: 1581752236:0;touch config
+: 1581752633:0;eval "$(ssh-agent -s)"
+: 1581757372:0;z /Users/lihe/00Li/github/vto
+: 1581757383:0;python vto/_samples.py
+: 1581768052:0;df -h
+: 1581776294:0;python nvs/app.py -a -p 32 -n 2 -w 0
+: 1581841843:0;python nvs/app.py -a -p 32
+: 1581847501:0;python nvs/app.py -a -p 32 -v
+: 1581847769:0;python nvs/app.py -a -p 32 -ab
+: 1581848826:0;vi ~/.hades/hades.cfg
+: 1581848866:0;python nvs/app.py -ab
+: 1581848873:0;python nvs/app.py -ab -id 20763
+: 1581849017:0;python nvs/app.py -ab -id 22162
+: 1581849123:0;du * -sh
+: 1581850256:0;screen -t 1
+: 1581850547:0;z /Users/lihe/01Neb/dkcmps
+: 1581850582:0;python nvs/app.py -a
+: 1581850690:0;/Users/lihe/01Neb/codes/nebular/cobra-ats-selenium/
+: 1581850722:0;pipenv --python 3.8
+: 1581850754:0;vi .git/info/exclude
+: 1581851553:0;pipenv install --skip-lock
+: 1581854192:0;gco -b aw-1
+: 1581854251:0;pipenv install --skip-lock PyYAML
+: 1581854256:0;python nvs/app.py -a -p 32 -n 5
+: 1581860422:0;ping www.baidu.com
+: 1581860931:0;killall chrome
+: 1581860934:0;killall google
+: 1581866917:0;z itool
+: 1581866961:0;cd 
+: 1581866970:0;vi nvs.txt
+: 1581866979:0;python nvs/app.py -a -p 32 -n 1
+: 1581866984:0;python nvs/app.py -a -p 32 -n 2
+: 1581905166:0;z hades
+: 1581905179:0;python nvs/app.py -a -p 32 -n 3
+: 1581905212:0;z dkcmps
+: 1581905230:0;z /Users/lihe/Documents/DockerData/superset/superset/examples/postgres
+: 1581905233:0;dpa
+: 1581905238:0;docker-compose stop
+: 1581905246:0;docker start redis && docker start crawl_redis && docker start pgsql
+: 1581908045:0;python nvs/app.py -a -p 32 -n 4
+: 1581909050:0;python nvs/app.py -a -p 32 -n 6
+: 1581911831:0;z /Users/lihe/01Neb/codes/nebular/cobra-ats-selenium
+: 1581911958:0;brew cask install chromedriver
+: 1581912992:0;brew cask update chromedriver
+: 1581913002:0;brew cask reinstall chromedriver
+: 1581913071:0;brew cask uninstall chromedrive
+: 1581913087:0;brew cask uninstall chromedriver
+: 1581914010:0;set
+: 1581914017:0;brew cask upgrade chromedriver
+: 1581914022:0;python nvs/app.py -a -p 32 -n 7
+: 1581916296:0;python nvs/app.py -a -p 32 -n 8
+: 1581916478:0;cd /usr/local/bin/
+: 1581916489:0;cp ~/Downloads/chromedriver ./
+: 1581916492:0;chromedriver -v
+: 1581917053:0;python -m unittest tests/common
+: 1581919515:0;sh ~/.env-configs/zsh_cfg/.priv.wd.sh
+: 1581919536:0;cd /Volumes
+: 1581919539:0;cd wdp
+: 1581919541:0;cd wdpub
+: 1581919548:0;cd MacBakup
+: 1581919551:0;cd work
+: 1581919579:0;cd Utils
+: 1581919603:0;mv v2 .vdo1
+: 1581919607:0;mv vdo .vdo
+: 1581925768:0;hades.cap -o 24 -r
+: 1581928576:0;python -m unittest tests/common/test_sign_in.TestSignIn
+: 1581932395:0;z compete-crawler
+: 1581932405:0;setcc
+: 1581938035:0;python nvs/app.py -v
+: 1582000321:0;ipython
+: 1582003514:0;python pipino/ecs_crawler -id 16 -p 0 -k 'python admin'
+: 1582003845:0;python pipino/ecs_crawler -id 16 -p 0 -k 'private driver'
+: 1582003894:0;python pipino/ecs_crawler -id 16 -p 0 -k 'bus driver'
+: 1582003943:0;python pipino/ecs_crawler -id 16 -p 0 -k 'economic development'
+: 1582004019:0;python pipino/ecs_crawler -id 16 -p 0
+: 1582004995:0;gco CRI-27
+: 1582005055:0;gco CRI-4
+: 1582005084:0;git branch
+: 1582005091:0;gco BPO-01
+: 1582005155:0;gd origin/master pipino/crawler/nebular/nebu_behavior.py
+: 1582005332:0;gd origin/master pipino/crawler/nebular/nebu_behavior.py > /tmp/BPO-01
+: 1582005376:0;gco -b CC-528
+: 1582005553:0;vi BPO-01
+: 1582005766:0;gcm "fix(NebuCrawl-NebuBot): init bot after kwargs in yaml take effects"
+: 1582007133:0;gd 
+: 1582008623:0;ga pipino/crawler/nebular/nebu_behavior.py
+: 1582008636:0;gcm "fix(NebuCrawl-NebuBot): init bot after kwargs in yaml to take effects"
+: 1582008638:0;\gst
+: 1582008853:0;python pipino/ecs_crawler -id 16 -p 0 -k nursing
+: 1582009153:0;gcm "fix(16): layout change"
+: 1582009700:0;gco CC-528
+: 1582010148:0;setproxy
+: 1582010167:0;disproxy
+: 1582010186:0;doawslogin
+: 1582010224:0;gp origin CC-528
+: 1582010781:0;gcm "deploy: upgrade sites 16"
+: 1582010785:0;./deploy.sh -p CC
+: 1582013291:0;python -m unittest tests/common/test_sign_in.py -v -k TestSignIn
+: 1582019555:0;pipenv graph | grep yaml
+: 1582019572:0;pipenv graph | grep -i yaml
+: 1582019634:0;gd tests/__init__.py
+: 1582019754:0;ga tests/__init__.py
+: 1582019861:0;gcm "feat: encapsulate locators,actions to TieredTestBase"
+: 1582020884:0;git config user.name hex-aw
+: 1582020902:0;git config user.email hexiang@awesomego.com.cn
+: 1582020946:0;gcm "refactor: encapsulate find_elements,actions to TieredTestBase"
+: 1582020971:0;gd tests/common/test_sign_in.py
+: 1582020987:0;ga tests/common/test_sign_in.py
+: 1582020995:0;ga locators
+: 1582021052:0;gcm "feat: add TestSignIn"
+: 1582021085:0;gcm "feat: add PyYAML to requirements"
+: 1582021103:0;gp origin aw-1
+: 1582081380:0;ps aux gpi bastion
+: 1582081450:0;killall autossh
+: 1582081453:0;mapcc
+: 1582083883:0;open /tmp/nebu/16
+: 1582087207:0;gco -b aw-2
+: 1582088323:0;ga pages/sign_in_page.py
+: 1582090387:0;gd pages/sign_in_page.py
+: 1582093546:0;gd elements
+: 1582093827:0;gcm "refactor pages/elements/locators sign_in_* with update_text/wait_for_element_present/CSS_SELECTOR"
+: 1582094101:0;git config user.name Hex.aw
+: 1582094125:0;gcm "step1: refactor pages/elements/locators sign_in_* with update_text/wait_for_element_present/CSS_SELECTOR"
+: 1582094279:0;gcm "step2: refactor elements/locators support PURE CSS_SELECTOR"
+: 1582095715:0;gcm "step3: refactor elements/sign_in_elements.<*>_element to pages/sign_in_page"
+: 1582097736:0;gcm "step4: refactor move wait_for_element_present to pages/sign_in_page"
+: 1582098000:0;python -m unittest tests/common/test_sign_in.py
+: 1582098475:0;gcm "step5: refactor move shared methods to BasePage"
+: 1582099034:0;gcm "step6: refactor sign_in_page.email/password/button_<action>"
+: 1582099586:0;vi ~/.env-configs/zsh_cfg/.priv.sh
+: 1582099599:0;vi ~/.cc/env.cc
+: 1582099609:0;export USER_PROFILE=super_admin
+: 1582102332:0;gcm "step7: refactor seperate BasePage to BasePage and PageAction"
+: 1582102413:0;gcm "demo1: refactor DashboardPage with BasePage"
+: 1582109371:0;gd pages/common_page.py
+: 1582109393:0;gd pages/common_page.py > /tmp/aw2.txt
+: 1582109399:0;vi /tmp/aw2.txt
+: 1582110264:0;gd pages/base_page.py
+: 1582110276:0;ga pages/base_page.py
+: 1582110430:0;gcm "step8: feat add more actions to BasePage/CommonPage"
+: 1582112074:0;gd origin/master pages/sign_in_page.py
+: 1582112194:0;git reset --soft HEAD^
+: 1582113067:0;./test_common.sh
+: 1582113185:0;python -m unittest tests/common/test_sign_in.py -v
+: 1582113375:0;python -m unittest tests/common/test_sign_out.py -v
+: 1582114347:0;gcm "demo2: refactor CommonPage with BasePage, partial changes of elements/common_elements"
+: 1582114582:0;gp origin aw-2
+: 1582118611:0;cd .nvs
+: 1582118617:0;vi a.txt
+: 1582166903:0;gco aw-2
+: 1582174620:0;svi /etc/hosts
+: 1582181671:0;gco AUTO-20
+: 1582183929:0;git fetch --all
+: 1582184015:0;git reset --hard origin/master
+: 1582184022:0;git pull
+: 1582184058:0;alias gpi track
+: 1582184061:0;alias gpi git
+: 1582184067:0;alias gpi checkout
+: 1582184077:0;gbr
+: 1582184117:0;git checkout --track origin/jira/AUTO-20
+: 1582189212:0;alias gpi gp
+: 1582206877:0;gd origin/master
+: 1582255495:0;vi ~/.cc/crawler.cfg
+: 1582255824:0;python pipino/ecs_crawler -id 10 -p 0 -k python
+: 1582258128:0;python pipino/ecs_crawler -id 109 -p 0 -k python
+: 1582258549:0;gd
+: 1582258554:0;ga .
+: 1582258562:0;gcm "fix(10/109): update response scripts"
+: 1582258564:0;gp
+: 1582258675:0;gco master
+: 1582258681:0;git fetch && git pull
+: 1582258786:0;gp origin master
+: 1582278767:0;git log
+: 1582291949:0;GLG
+: 1582291951:0;glg
+: 1582342118:0;hades.watch
+: 1582342137:0;cdghb
+: 1582342140:0;cd crawlers
+: 1582343492:0;pipenv --rm
+: 1582343502:0;pipenv shell
+: 1582343591:0;pipenv install --skip-lock iparse
+: 1582344037:0;pipenv install --skip-lock ihelp
+: 1582346351:0;pipenv install --skip-lock -e /Users/lihe/00Li/github/iz/icrawl
+: 1582346369:0;pipenv install -e /Users/lihe/00Li/github/iz/icrawl --skip-lock
+: 1582346396:0;pipenv --help
+: 1582346427:0;pipenv install -e /Users/lihe/00Li/github/iz/icrawl/ --skip-lock
+: 1582346450:0;history | grep 'pipenv install'
+: 1582346468:0;pipenv install -e  --skip-lock /Users/lihe/00Li/github/iz/icrawl/
+: 1582346493:0;pipenv install -e --help
+: 1582346512:0;pipenv install -e /Users/lihe/00Li/github/iz/icrawl/
+: 1582346563:0;pipenv install -e ../iz/icraw --skip-lock
+: 1582348845:0;cd /tmp/crawler
+: 1582348854:0;cd media
+: 1582348861:0;cd ../raw
+: 1582350351:0;python win4k/app.py -h
+: 1582350427:0;cd
+: 1582350430:0;cd -
+: 1582350433:0;cd ..
+: 1582350436:0;ls media
+: 1582350439:0;cd ~/tmp
+: 1582350545:0;python win4k/app.py -n vicni -id 114553
+: 1582351557:0;python win4k/app.py -n vicni -id 114553 -o 1
+: 1582351645:0;python win4k/app.py -n vicni -id 114518
+: 1582351883:0;python win4k/app.py -n vicni -id 117611
+: 1582352291:0;python win4k/app.py -n vicni -id 117611 -o 10
+: 1582352382:0;python win4k/app.py -n vicni -id 117611 -o 14
+: 1582352705:0;python win4k/app.py -id 109406
+: 1582352791:0;pwd
+: 1582352853:0;python win4k/app.py -id 98659 -n è¯ƒ·èƒ¬ƒ·
+: 1582352944:0;python win4k/app.py -id 98656 -n è¯ƒ·èƒ¬ƒ·
+: 1582352954:0;python win4k/app.py -id 98656 -n è¯ƒ·èƒ¬ƒ· -o 1
+: 1582353008:0;python win4k/app.py -id 98657 -n è¯ƒ·èƒ¬ƒ· -o 1
+: 1582353035:0;python win4k/app.py -id 98655 -n è¯ƒ·èƒ¬ƒ· -o 1
+: 1582353813:0;python win4k/app.py -id meinv98655 -n è¯ƒ·èƒ¬ƒ· -o 1
+: 1582354503:0;cd /tmp
+: 1582354505:0;cd crawler
+: 1582354508:0;cd www.win4000.com
+: 1582354511:0;cd raw
+: 1582354681:0;rm *.html
+: 1582354733:0;python win4k/app.py -id 98655 -n è¯ƒ·èƒ¬ƒ·
+: 1582354887:0;gst
+: 1582355158:0;open meinvtag25469_1.html
+: 1582355188:0;open .
+: 1582355347:0;python win4k/app.py -tid 25469_1
+: 1582357853:0;python win4k/app.py -tid 18095_1
+: 1582358030:0;python win4k/app.py -tid 18095_1 -o 2
+: 1582358200:0;python win4k/app.py -tid 18095_1 -o 10
+: 1582358426:0;python win4k/app.py -tid 18095_1 -o 12
+: 1582358742:0;python win4k/app.py -id 123192
+: 1582358818:0;python win4k/app.py -tid 18095_2
+: 1582359090:0;python win4k/app.py -id meinv196042
+: 1582359143:0;python win4k/app.py -id 106075
+: 1582359395:0;python win4k/app.py -id meinv106135
+: 1582359467:0;python win4k/app.py -id meinv106132_1
+: 1582359517:0;python win4k/app.py -n çƒ®ƒ«éƒ·µå¤ƒº -id meinv106132_1
+: 1582359910:0;python win4k/app.py -tid meinvtag15836_1 -s 2400
+: 1582360272:0;python win4k/app.py -tid meinvtag15836_1 -s 2400,2560,1600
+: 1582360553:0;python win4k/app.py -tid meinvtag15836_2 -s 2400,2560,1600
+: 1582360593:0;python win4k/app.py -tid meinvtag13840_1 -s 2400,2560,1600
+: 1582360701:0;python win4k/app.py -tid meinvtag13840_1 -s 2400,2560,2200,1920
+: 1582360851:0;python win4k/app.py -tid meinvtag13840_2 -s 2400,2560,2200,1920
+: 1582361059:0;python win4k/app.py -tid meinvtag13840_3
+: 1582361467:0;python win4k/app.py -tid meinvtag13840_3 -min 1920
+: 1582361525:0;python win4k/app.py -tid meinvtag13840_4 -min 1920
+: 1582361680:0;python win4k/app.py -id meinv103614
+: 1582361892:0;python win4k/app.py -id meinv45170_4
+: 1582361916:0;python win4k/app.py -id meinv45171
+: 1582362468:0;python win4k/app.py -id meinv45170_1
+: 1582362614:0;python win4k/app.py -id meinv97017_9
+: 1582362738:0;python win4k/app.py -tid meinvtag10740_1 
+: 1582362886:0;python win4k/app.py -id meinv109070_8
+: 1582363000:0;python win4k/app.py -id meinv146439_3
+: 1582363005:0;python win4k/app.py -id meinv123200_12
+: 1582363058:0;python win4k/app.py -id meinv190389_2
+: 1582363105:0;python win4k/app.py -id meinv190388
+: 1582363156:0;python win4k/app.py -id meinv195857
+: 1582363182:0;python win4k/app.py -id meinv195614
+: 1582363237:0;python win4k/app.py -id meinv195522
+: 1582363444:0;python win4k/app.py -id meinv146439
+: 1582363765:0;python win4k/app.py -name one -tid meinvtag16427_1
+: 1582363778:0;python win4k/app.py -n one -tid meinvtag16427
+: 1582363781:0;python win4k/app.py -n one -tid meinvtag16427_1
+: 1582364669:0;python win4k/app.py -n one -tid meinvtag16427_2
+: 1582364738:0;cd ~/Pictures
+: 1582364741:0;cd win4k
+: 1582364744:0;cd one
+: 1582364746:0;ll
+: 1582364755:0;ll --help
+: 1582364759:0;ll --S
+: 1582364761:0;ls -S
+: 1582364765:0;ls -alS
+: 1582364774:0;ls -alt
+: 1582364864:0;mkdir a1
+: 1582364881:0;cp -rf 145693 145833 146293 146528 146738 147433 150861 151108 a1
+: 1582364884:0;l
+: 1582364909:0;rm -rf 145693 145833 146293 146528 146738 147433 150861 151108
+: 1582364910:0;ls
+: 1582364983:0;python win4k/app.py -tid meinvtag16427_2
+: 1582365072:0;python win4k/app.py -tid meinvtag16427_2 -c
+: 1582365309:0;python win4k/app.py -id meinv192712
+: 1582367072:0;python win4k/app.py -id meinv194654
+: 1582367136:0;python win4k/app.py -id meinv196195
+: 1582367234:0;python win4k/app.py -id meinv66021
+: 1582367335:0;python win4k/app.py -id meinv196212
+: 1582367493:0;python win4k/app.py -id meinv103676
+: 1582368376:0;python win4k/app.py -tid meinvtag28561_1 -c
+: 1582368548:0;python win4k/app.py -tid meinvtag28561_1 -c -o 22
+: 1582368641:0;python win4k/app.py -id meinv103614
+: 1582370090:0;hades.watch
+: 1582430350:0;python win4k/app.py -n stunning_face -tid meinvtag23769_1 -c
+: 1582430392:0;python win4k/app.py -n stunning_face -tid meinvtag23769_1
+: 1582430428:0;python win4k/app.py -n stunning_face -tid meinvtag23769_1 -m 1024 -h
+: 1582430432:0;python win4k/app.py -n stunning_face -tid meinvtag23769_1 -h
+: 1582430448:0;python win4k/app.py -n stunning_face -tid meinvtag23769_1 -min 1024
+: 1582430554:0;python win4k/app.py -n stunning_face -tid meinvtag23769_2 -min 1024
+: 1582431031:0;python win4k/app.py -n stunning_face -tid meinvtag23769_3 -min 1024
+: 1582432711:0;python win4k/app.py -n stunning_face -tid meinvtag23769_4 -min 1024
+: 1582434543:0;python win4k/app.py -n stunning_face -tid meinvtag23769_5 -min 1024
+: 1582438560:0;python win4k/app.py -id meinv127072
+: 1582438739:0;python win4k/app.py -n yuji -id meinv127155
+: 1582438761:0;python win4k/app.py -n yuji -id meinv127069
+: 1582441072:0;python win4k/app.py -n æƒ½ƒ®å¦ƒ­éƒ½ƒ¹ -id meinvtag11163_1
+: 1582441089:0;python win4k/app.py -n 'æƒ½ƒ®å¦ƒ­éƒ½ƒ¹' -id meinvtag11163_1
+: 1582441100:0;python win4k/app.py -n 'æƒ½ƒ®å¦ƒ­éƒ½ƒ¹' -tid meinvtag11163_1
+: 1582441157:0;python win4k/app.py -n 'æƒ½ƒ®å¦ƒ­éƒ½ƒ¹' -tid meinvtag11163_2 -min 1280
+: 1582441191:0;python win4k/app.py -n 'æƒ½ƒ®å¦ƒ­éƒ½ƒ¹' -tid meinvtag11163_3 -min 1280
+: 1582441210:0;python win4k/app.py -n 'æƒ½ƒ®å¦ƒ­éƒ½ƒ¹' -tid meinvtag11163_3 -min 1280 -h
+: 1582441215:0;python win4k/app.py -n 'æƒ½ƒ®å¦ƒ­éƒ½ƒ¹' -tid meinvtag11163_3 -min 1280 -o 12
+: 1582441225:0;python win4k/app.py -n 'æƒ½ƒ®å¦ƒ­éƒ½ƒ¹' -tid meinvtag11163_4 -min 1280
+: 1582441237:0;python win4k/app.py -n 'æƒ½ƒ®å¦ƒ­éƒ½ƒ¹' -tid meinvtag11163_5 -min 1280
+: 1582441268:0;python win4k/app.py -n Tina -tid meinvtag15503_1
+: 1582441278:0;python win4k/app.py -n Tina -tid meinvtag15503_1 -min 1280
+: 1582441909:0;python win4k/app.py -n Tina -tid meinvtag15503_1 -min 1280 -o 18
+: 1582442113:0;python win4k/app.py -n Tina -tid meinvtag15503_2 -min 1280
+: 1582442486:0;python win4k/app.py -n Tina -tid meinvtag15503_3 -min 1280
+: 1582442906:0;python win4k/app.py -n Tina -tid meinvtag15503_4 -min 1280
+: 1582442937:0;python win4k/app.py -n abby -tid meinvtag13183_1 -min 1280
+: 1582443743:0;python win4k/app.py -n abby -tid meinvtag13183_2 -min 1280
+: 1582445318:0;hades.watch
+: 1582445872:0;python win4k/app.py -n abby -tid meinvtag13183_2 -min 1280
+: 1582445882:0;python win4k/app.py -n abby -tid meinvtag13183_3 -min 1280
+: 1582446197:0;python win4k/app.py -id meinv117116_3
+: 1582446289:0;python win4k/app.py -id meinv102312
+: 1582446299:0;python win4k/app.py -id meinv102311
+: 1582446358:0;python nvs/app.py -h
+: 1582446372:0;python nvs/app.py -ad 18356
+: 1582446410:0;python nvs/app.py -ab -id 20440
+: 1582446479:0;cd ~/tmp
+: 1582446480:0;ls
+: 1582446482:0;cd .nvs
+: 1582446482:0;ls
+: 1582446489:0;vi header.txt
+: 1582446497:0;python nvs/app.py -ad 18356
+: 1582446518:0;ls
+: 1582446518:0;ll
+: 1582446520:0;vi header.txt
+: 1582446526:0;pwd
+: 1582446548:0;python nvs/app.py -ad 18356
+: 1582446606:0;python nvs/app.py -ad 18356 -h
+: 1582446614:0;python nvs/app.py -ad 18356 -id 20440
+: 1582446624:0;open .
+: 1582446875:0;python nvs/app.py -h
+: 1582446899:0;python nvs/app.py -ab -id 20440
+: 1582446976:0;python nvs/app.py -ab -id 27257
+: 1582446982:0;python nvs/app.py -ab -id 27257 -h
+: 1582446993:0;python -h
+: 1582447002:0;python nvs/app.py -h
+: 1582447005:0;python nvs/app.py -v
+: 1582447044:0;python nvs/app.py -id 27257
+: 1582447103:0;python nvs/app.py -v
+: 1582447207:0;python nvs/app.py -a
+: 1582447296:0;python nvs/app.py -v
+: 1582447302:0;python nvs/app.py -id 27257 
+: 1582447361:0;python nvs/app.py -id 27257 -v
+: 1582447365:0;python nvs/app.py -a
+: 1582447991:0;python nvs/app.py -v
+: 1582448005:0;python nvs/app.py -a -id 20440
+: 1582448011:0;python nvs/app.py -a -id 20440 
+: 1582448015:0;python nvs/app.py -a -id 20440 -h
+: 1582448019:0;python nvs/app.py -a -id 20440 -n 2
+: 1582448516:0;sudo spctl â€ƒ³master-disable
+: 1582448521:0;sudo spctl --master-disable
+: 1582448703:0;xattr -cr /Applications/Eudic.app
+: 1582449218:0;cd /Library/Preference
+: 1582449225:0;cd /Library/Preferences
+: 1582449226:0;ll
+: 1582449237:0;sudo cp ~/Downloads/com.eusoft.eudic.plist ./
+: 1582449273:0;ll com.eusoft.eudic.plist 
+: 1582449287:0;open .
+: 1582449482:0;pwd
+: 1582449660:0;cd
+: 1582449743:0;hades.dkr -d img
+: 1582453143:0;sudo killall coreaudiod\
+\
+
+: 1582453154:0;sudo killall coreaudiod
+: 1582453548:0;docker-compose stop
+: 1582453552:0;docker start redis && docker start crawl_redis && docker start pgsql
+: 1582462402:0;pipenv shell
+: 1582462427:0;mapcc
+: 1582514943:0;gt
+: 1582514944:0;gst
+: 1582514947:0;git fetch && git pull
+: 1582515325:0;curl cip.cc
+: 1582515358:0;ping www.baidu.com
+: 1582515368:0;ping g.cn
+: 1582515387:0;git fetch && git pull
+: 1582515390:0;ping www.baidu.com
+: 1582515414:0;git fetch && git pull
+: 1582515774:0;gco -b jira/AUTO-23
+: 1582515776:0;gst
+: 1582515842:0;git branch
+: 1582515861:0;git branch -vv
+: 1582515876:0;git branch
+: 1582515948:0;git branch -vv
+: 1582516109:0;vi .git/info/exclude
+: 1582516137:0;gst
+: 1582516510:0;gd
+: 1582516533:0;gst
+: 1582516598:0;glg
+: 1582516605:0;gst
+: 1582516657:0;glg
+: 1582516659:0;gst
+: 1582516744:0;glg
+: 1582516752:0;gd
+: 1582516769:0;gst
+: 1582516770:0;gd
+: 1582516776:0;ga .
+: 1582516779:0;glg
+: 1582519517:0;gst
+: 1582520871:0;gcm "23: refactor constants.Password to data/sign_in_constants.Password"
+: 1582520872:0;gst
+: 1582521701:0;gd
+: 1582521802:0;./test_jobs.sh
+: 1582521817:0;export USER_PROFILE=super_admin
+: 1582521818:0;./test_jobs.sh
+: 1582522152:0;python -m unittest tests/jobs/test_post_job.py -v
+: 1582522386:0;gst
+: 1582522389:0;gd
+: 1582522402:0;glg
+: 1582522405:0;gst
+: 1582522408:0;ga .
+: 1582522452:0;gcm "23: refactor constants.Jobs* to data/jobs_constants"
+: 1582522455:0;glg
+: 1582524365:0;alias gpi gst
+: 1582527870:0;gst
+: 1582527871:0;gd
+: 1582527885:0;gd origin/master
+: 1582527903:0;glg
+: 1582527928:0;gp origin jira/AUTO-23
+: 1582528698:0;glg
+: 1582530401:0;python -m unittest tests/settings/test_manage_user.py -v
+: 1582538815:0;hades.watch
+: 1582543927:0;git log
+: 1582545081:0;glg
+: 1582545395:0;python -m unittest tests/settings/test_manage_user.py -v
+: 1582545558:0;gco master
+: 1582545560:0;python -m unittest tests/settings/test_manage_user.py -v
+: 1582546322:0;python -m unittest tests/super_admin/test_super_manage_user.py
+: 1582547162:0;python -m unittest tests/jobs/test_post_job.py -v
+: 1582596964:0;git log
+: 1582596975:0;glg
+: 1582596982:0;alias gpi glg
+: 1582596986:0;git lg
+: 1582597217:0;gd
+: 1582597245:0;git fetch && git pull
+: 1582597346:0;gco jira/AUTO-23
+: 1582599492:0;gst
+: 1582599493:0;gd
+: 1582599506:0;ga .
+: 1582599517:0;gcm "23: rename data.sign_in_constants to data.shared_constants"
+: 1582599520:0;gco master
+: 1582599712:0;hades.watch
+: 1582599925:0;killall autossh
+: 1582599928:0;mapcc
+: 1582600148:0;ls /Volumes
+: 1582600333:0;sh ~/.env-configs/zsh_cfg/.priv.wd.sh
+: 1582600478:0;hades.watch
+: 1582600726:0;cd /Volumes/wdpub
+: 1582600727:0;ls
+: 1582600734:0;cd MacBakup/work/Utils/
+: 1582600735:0;ll
+: 1582600750:0;mkdir .images
+: 1582600767:0;open ~/tmp/
+: 1582600818:0;cd
+: 1582601653:0;gco jira/AUTO-23
+: 1582602795:0;python -m unittest tests/jobs/test_post_job.py -v
+: 1582605081:0;vi .git/info/exclude
+: 1582606629:0;docker-compose stop
+: 1582606632:0;docker start redis && docker start crawl_redis && docker start pgsql
+: 1582608137:0;glg
+: 1582608155:0;gco master
+: 1582608158:0;glg
+: 1582614382:0;pipenv shell
+: 1582614392:0;mapcc
+: 1582614401:0;pipenv shell
+: 1582614410:0;hades.watch
+: 1582614472:0;gco jira/AUTO-23
+: 1582614473:0;glg
+: 1582614480:0;gd origin/master
+: 1582614494:0;glg
+: 1582614535:0;gp origin jira/AUTO-23
+: 1582614543:0;glg
+: 1582615648:0;export USER_PROFILE=super_admin
+: 1582615995:0;python izui/ats_comment.py
+: 1582626809:0;python izui/ats_comment.py -n ok
+: 1582627042:0;cd izui
+: 1582627042:0;ls
+: 1582627048:0;python comment_generator.py -h
+: 1582627050:0;python comment_generator.py -c
+: 1582627290:0;python comment_generator.py -h
+: 1582627294:0;python comment_generator.py
+: 1582627489:0;python comment_generator.py -c
+: 1582627585:0;python comment_generator.py -h
+: 1582628546:0;python comment_generator.py
+: 1582628994:0;python comment_generator.py -h
+: 1582629074:0;python comment_generator.py -m "do more"
+: 1582629103:0;python comment_generator.py -h
+: 1582629111:0;python comment_generator.py -m "more message"
+: 1582629151:0;python comment_generator.py -m "\n- more message"
+: 1582687293:0;xattr -cr /Applications/PaintCode.app
+: 1582688227:0;gco master
+: 1582688229:0;git fetch && git pull
+: 1582688304:0;curl cip.cc
+: 1582688309:0;git fetch && git pull
+: 1582688503:0;gco aw-2
+: 1582688510:0;git rebase origin/master
+: 1582688636:0;git rebase --continue
+: 1582688699:0;glg
+: 1582688775:0;git reset --hard origin/master
+: 1582688787:0;git reset --hard origin/aw-2
+: 1582688788:0;glg
+: 1582688813:0;gco master
+: 1582688842:0;gco aw-2
+: 1582688891:0;git rebase origin/master
+: 1582688922:0;git rebase --continue
+: 1582689082:0;gd origin/master
+: 1582689138:0;gd origin/master tests/jobs/test_post_job.py
+: 1582689166:0;gst
+: 1582689167:0;glg
+: 1582689407:0;gco master
+: 1582693631:0;python -m unittest tests/jobs/test_post_job.py -v
+: 1582693670:0;gco aw-1
+: 1582693675:0;git rebase origin/master
+: 1582693677:0;glg
+: 1582696928:0;python -m unittest tests/jobs/test_post_jobs.py -v
+: 1582702580:0;gst
+: 1582702582:0;glg
+: 1582705153:0;python -m unittest tests/jobs/test_post_job.py -v
+: 1582705505:0;gst
+: 1582705515:0;glg
+: 1582705653:0;gco master
+: 1582705665:0;gco -b aw-3
+: 1582708006:0;gco master
+: 1582708042:0;git fetch && git pull
+: 1582708413:0;python comment_generator.py
+: 1582709955:0;python -m unittest tests/common/test_sign_in.py -v
+: 1582710885:0;gd 
+: 1582711133:0;glg
+: 1582711619:0;gco jira/AUTO-23
+: 1582711642:0;gco masgter
+: 1582711645:0;gco master
+: 1582713389:0;gst
+: 1582714958:0;gd
+: 1582714973:0;gd origin/master
+: 1582718024:0;python comment_generator.py -h
+: 1582718055:0;python comment_generator.py -m "please write outline first"
+: 1582718123:0;python comment_generator.py -m " we should write outline first"
+: 1582718661:0;gco aw-3
+: 1582718665:0;git rebase origin/master
+: 1582721627:0;xattr -cr /Applications/XMind\ ZEN.app
+: 1582769135:0;pwd
+: 1582769137:0;ls
+: 1582769138:0;pwd
+: 1582772999:0;gco master
+: 1582773008:0;git fetch && git pull
+: 1582773051:0;gco aw-3
+: 1582773054:0;git rebase origin/master
+: 1582783987:0;python hades/clear_es_log.py -s 2019-12-15 -e 2019-12-31 -k CP -c
+: 1582783998:0;cd ..
+: 1582783999:0;ls
+: 1582784001:0;python hades/clear_es_log.py -s 2019-12-15 -e 2019-12-31 -k CP -c
+: 1582784014:0;python pipino/ecs_crawler -id 109 -p 0 -k python
+: 1582784018:0;setcc
+: 1582784021:0;python pipino/ecs_crawler -id 109 -p 0 -k python
+: 1582784047:0;python hades/clear_es_log.py -s 2019-12-15 -e 2019-12-31 -k CP -c
+: 1582784085:0;python pipino/ecs_crawler -id 10 -p 0 -k python
+: 1582784130:0;python pipino/ecs_crawler -id 17 -p 0 -k python
+: 1582786613:0;vi ~/.cc/crawler.cfg
+: 1582786619:0;python pipino/ecs_crawler -id 17 -p 0 -k python
+: 1582786629:0;python hades/clear_es_log.py -s 2019-12-15 -e 2019-12-31 -k CP -c
+: 1582787298:0;python pipino/ecs_crawler -id 17 -p 0 -k python
+: 1582788390:0;gst
+: 1582788391:0;gd
+: 1582788396:0;ga .
+: 1582788409:0;gcm "fix(17): update response scripts"
+: 1582788639:0;l
+: 1582788640:0;glg
+: 1582788642:0;gst
+: 1582788644:0;gd
+: 1582788654:0;python pipino/ecs_crawler -id 10 -p 0 -k python
+: 1582788683:0;vi ~/.cc/crawler.cfg
+: 1582788694:0;python pipino/ecs_crawler -id 10 -p 0 -k python
+: 1582788759:0;python pipino/ecs_crawler -id 109 -p 0 -k python
+: 1582789013:0;hades.rdsmg -id 109 -p 16379 -z 50
+: 1582789019:0;hades.rdsmg -id 10 -p 16379 -z 50
+: 1582789588:0;h gpi --force
+: 1582789592:0;h gpi force
+: 1582789710:0;gst
+: 1582789711:0;gd
+: 1582789726:0;ga .
+: 1582789760:0;gcm "fix(10/109): search_term,location input elements layout change"
+: 1582789762:0;gp
+: 1582795780:0;python izui/comment_generator.py -h
+: 1582795787:0;python izui/comment_generator.py -c
+: 1582797067:0;gd origin/master
+: 1582797114:0;gco master
+: 1582797117:0;git fetch && git pull
+: 1582797137:0;glg
+: 1582801568:0;gco aw-3
+: 1582801572:0;git rebase origin/master
+: 1582801574:0;glg
+: 1582801580:0;gco aw-1
+: 1582801581:0;glg
+: 1582801610:0;git rebase origin/master
+: 1582801631:0;git rebase --abort 
+: 1582801689:0;git rebase origin/master
+: 1582801783:0;git rebase --continue
+: 1582801785:0;glg
+: 1582801790:0;gd origin/master
+: 1582801809:0;glg
+: 1582801821:0;git reset --hard aw-1
+: 1582801823:0;glg
+: 1582801954:0;git reflog
+: 1582802013:0;glg
+: 1582802023:0;git reflog
+: 1582802211:0;glg
+: 1582802285:0;git reset --hard origin/aw-1
+: 1582802287:0;glg
+: 1582802294:0;gco master
+: 1582802297:0;gco aw-1
+: 1582802299:0;glg
+: 1582802304:0;gd origin/master
+: 1582807227:0;python izui/comment_generator.py
+: 1582814924:0;vi ~/.zsh_history
+: 1582857550:0;gco master
+: 1582857551:0;glg
+: 1582857554:0;git fetch && git pull
+: 1582857611:0;glg
+: 1582857622:0;git rebase --continue
+: 1582857692:0;git rebase --abort
+: 1582857706:0;glg
+: 1582857729:0;git add .
+: 1582857732:0;gst
+: 1582857741:0;git rebase --continue
+: 1582857752:0;git reset --hard origin/master
+: 1582857754:0;glg
+: 1582857760:0;gst
+: 1582857763:0;git fetch && git pull
+: 1582857797:0;glg
+: 1582858214:0;cd /tmp
+: 1582858270:0;git clone git@github.com-aw:tardisone/cobra-ats-selenium.git
+: 1582859807:0;ls
+: 1582859812:0;cd co
+: 1582859815:0;cd cobra-ats-selenium
+: 1582859816:0;glg
+: 1582859820:0;cd ..
+: 1582859821:0;open .
+: 1582863101:0;ls
+: 1582863118:0;cd ~/.env-configs/zsh_cfg/
+: 1582863120:0;ll
+: 1582863121:0;ls
+: 1582863123:0;pwd
+: 1582863125:0;ll
+: 1582863129:0;rm Pipfile
+: 1582863130:0;gst
+: 1582863131:0;gd
+: 1582863136:0;gst
+: 1582863137:0;ll
+: 1582863143:0;cd ../
+: 1582863144:0;ls
+: 1582863145:0;gst
+: 1582863170:0;ls
+: 1582863181:0;mkdir hist
+: 1582863182:0;ls
+: 1582863184:0;cd hist
+: 1582863185:0;ls
+: 1582863193:0;cp ~/.zsh_history ./

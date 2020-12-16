@@ -2,9 +2,10 @@ set clipboard+=unnamed
 " <leader>
 " 修改leader键
 " only work in local namespace
-let mapleader = ','
+let mapleader=','
 " work for global
-let g:mapleader = ','
+let g:mapleader=','
+set easymotion
 
 " 配置变更立即生效
 autocmd BufWritePost $MYVIMRC source $MYVIMRC
@@ -146,3 +147,4 @@ set surround
 "'viminfo'        'vi'    information to remember after restart
 "'visualbell'     'vb'    use visual bell instead of beeping
 "'wrapscan'       'ws'    searches wrap around the end of the file
+set ideajoinset clipboard+=ideaput

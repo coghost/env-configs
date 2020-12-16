@@ -1,16 +1,17 @@
 # ------------------------------------------
 # miscellany alias
 # ------------------------------------------
-alias vim='mvim -v'
-alias vi='mvim -v'
+# alias vim='mvim -v'
+# alias vi='mvim -v'
 alias svi='sudo vim '
-alias ll='ls -alF'
-alias la='ls -A'
-alias l='ls -CF'
-alias lh='ls -lAh'
-alias lh='ls -lAh'
-alias lhS='ls -AlhS'
-alias lht='lh -t'
+alias ls='ls --color=auto'
+alias ll='ls -alF --color=auto'
+alias la='ls -A --color=auto'
+alias l='ls -CF --color=auto'
+alias lh='ls -lAh --color=auto'
+alias lh='ls -lAh --color=auto'
+alias lhS='ls -AlhS --color=auto'
+alias lht='lh -t --color=auto'
 alias ipscan0='sudo arp-scan --interface=en0 '
 alias ipscan1='sudo arp-scan --interface=en1 '
 alias attr_read='xattr -d com.apple.FinderInfo *'
@@ -37,6 +38,7 @@ alias dlog50='sudo docker logs -f --tail=50'
 alias dlog500='sudo docker logs -f --tail=500'
 alias drimg='sudo docker rmi'
 alias drct='sudo docker rm'
+alias dexi='docker exec -it'
 ### docker ###
 
 # ------------------------------------------
@@ -57,7 +59,8 @@ alias ns='nosetests'
 ### python ###
 
 ### Productivity ###
-alias cat='ccat'
+alias orig_cat='ccat'
+# alias cat='ccat'
 alias ssrc='source ~/.zshrc'
 alias clean_ds_store="find . -type f -name '*.DS_Store' -ls -delete"
 
@@ -68,3 +71,19 @@ alias ll3="tree --dirsfirst -ChFL 3"
 alias ll1e="tree --dirsfirst -ChFupDaL 1"
 alias ll2e="tree --dirsfirst -ChFupDaL 2"
 alias ll3e="tree --dirsfirst -ChFupDaL 3"
+
+### editor
+alias subl='/Applications/SublimeText.app/Contents/SharedSupport/bin/subl'
+alias code='/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code'
+alias appium_desktop='/System/Volumes/Data/Applications/Appium.app/Contents/MacOS/Appium'
+
+alias setproxy='export http_proxy=http://127.0.0.1:1087;export https_proxy=http://127.0.0.1:1087;'
+alias disproxy='unset http_proxy https_proxy'
+
+alias ats='python -m unittest -c '
+alias atsd='python -m unittest discover -s '
+
+alias nv='nvim'
+alias vi='nvim'
+alias svi='sudo nvim'
+
