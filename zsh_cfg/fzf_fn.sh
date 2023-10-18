@@ -5,11 +5,15 @@
 # export CPPFLAGS="-I/usr/local/opt/ruby/include"
 # export PKG_CONFIG_PATH="/usr/local/opt/ruby/lib/pkgconfig"
 
-[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+# [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 bindkey "ç" fzf-cd-widget
 
+# --color 'fg:#bbccdd,fg+:#ddeeff,bg:#334455,border:#778899'
+# --color 'fg:#00ccdd,fg+:#009933,bg:#334455,preview-fg:#009911,preview-bg:#223344,border:#778899'
+# --color 'fg:#009933,fg+:#11aa44,bg:#334455,border:#778899'
+# --color='hl:148,hl+:154,pointer:032,marker:010,bg+:237,gutter:008'
 FD_OPTIONS=" --type f --hidden --follow --exclude .git --exclude node_modules"
-export FZF_DEFAULT_OPTS="
+export FZF_DEFAULT_OPTS=$FZF_DEFAULT_OPTS"
 --no-mouse --height 95% -1 --reverse --multi --inline-info
 --preview '([[ -f {} ]] && (bat --style=numbers --color=always {} || cat {})) || ([[ -d {} ]] && (tree -C {} | less)) || echo {} 2> /dev/null | head -200'
 --bind='f3:execute(bat --style=numbers {} || less -f {}),f2:toggle-preview,ctrl-d:half-page-down,ctrl-u:half-page-up,ctrl-a:select-all+accept,ctrl-y:execute-silent(echo {+} | pbcopy)'
@@ -27,6 +31,7 @@ export FORGIT_FZF_DEFAULT_OPTS="
 $FZF_DEFAULT_OPTS
 --ansi
 --height='95%'
+--color 'bg:#334455,preview-bg:#223344,border:#778899'
 --bind='ctrl-u:preview-page-up,F2:preview-up'
 --bind='ctrl-d:preview-page-down,F3:preview-down'
 --bind='ctrl-r:toggle-all'
@@ -88,7 +93,7 @@ fif() {
 # using "brew search" as source input
 # mnemonic [B]rew [I]nstall [P]lugin
 bip() {
-  local inst=$(brew search | fzf -m)
+  local inst=$(brew formulae | fzf -m)
 
   if [[ $inst ]]; then
     for prog in $(echo $inst);
@@ -164,3 +169,17 @@ bcun() {
 #   | cut -d$'\t' -f2 \
 #   | xargs open
 # }
+
+fkill() {
+    local pid
+    if [ "$UID" != "0" ]; then
+        pid=$(ps -f -u $UID | sed 1d | fzf -m | awk '{print $2}')
+    else
+        pid=$(ps -ef | sed 1d | fzf -m | awk '{print $2}')
+    fi
+
+    if [ "x$pid" != "x" ]
+    then
+        echo $pid | xargs kill -${1:-9}
+    fi
+}

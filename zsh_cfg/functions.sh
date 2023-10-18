@@ -31,3 +31,15 @@ function digga() {
 function tre() {
 	tree -aC -I '.git|node_modules|bower_components' --dirsfirst "$@" | less -FRNX;
 }
+
+cover () {
+    t="/tmp/go-cover.$$.tmp"
+    go test -v -coverprofile=$t $@ && go tool cover -html=$t && unlink $t
+}
+
+scroll-and-clear-screen() {
+    printf '\n%.0s' {1..$LINES}
+    zle clear-screen
+}
+zle -N scroll-and-clear-screen
+bindkey '^l' scroll-and-clear-screen

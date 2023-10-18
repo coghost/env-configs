@@ -1,5 +1,3 @@
-source ~/.env-configs/zsh_cfg/p9krc
-
 plugins=(
     aws
     brew
@@ -12,7 +10,7 @@ plugins=(
     gitfast
     history
     man
-    osx
+    macos
     pipenv
     python
     # rsync   # rsync frequent cmds
@@ -23,6 +21,7 @@ plugins=(
     vi-mode
     vscode
     z
+    zsh-aliases-exa
     zsh-autosuggestions # enable autosuggestions
     zsh-completions
     zsh-syntax-highlighting
@@ -54,8 +53,10 @@ COMPLETION_WAITING_DOTS="true"
 # only receive unique search results
 setopt HIST_IGNORE_ALL_DUPS
 zmodload zsh/terminfo
-bindkey "$terminfo[kcuu1]" history-substring-search-up
-bindkey "$terminfo[kcud1]" history-substring-search-down
+# bindkey "$terminfo[kcuu1]" history-substring-search-up
+# bindkey "$terminfo[kcud1]" history-substring-search-down
+bindkey -M vicmd 'k' history-substring-search-up
+bindkey -M vicmd 'j' history-substring-search-down
 autoload bashcompinit
 bashcompinit
 source ~/.local/share/lscolors.sh

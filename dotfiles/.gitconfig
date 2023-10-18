@@ -8,13 +8,16 @@
 	required = true
 	clean = git-lfs clean -- %f
 	smudge = git-lfs smudge -- %f
-[user]
-	name = hex-aw
-	email = hexiang@awesomego.com.cn
+; [user]
+; 	name = hex-aw
+; 	email = hexiang@awesomego.com.cn
 [http]
     postBuffer = 1048576000
 	maxRequestBuffer = 100M
 [pack]
-    deltaCacheSize = 2047m 
-    packSizeLimit = 2047m 
+    deltaCacheSize = 2047m
+    packSizeLimit = 2047m
     windowMemory = 2047m
+; [user]
+; 	name = Hex
+; 	email = lihex.go@gmail.com
